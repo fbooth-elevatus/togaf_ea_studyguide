@@ -1,0 +1,1 @@
+![The ADM](../images/TOGAF-The%20ADM.drawio.png "The ADM")
