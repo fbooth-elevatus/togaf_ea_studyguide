@@ -58,8 +58,24 @@ Prepare the organization for EA work by defining the framework, principles, and 
       - **Change Control Process:** Manages updates to the architecture post-Phase H via a formal request system.
 
 ## Inputs
-- **Organizational Context:** Business goals, structure, and culture.
-- **Existing Frameworks:** Current EA practices or standards in use.
+- **Organizational Context:** Business goals, structure, and culture influence how the EA is scoped and executed.
+  - **Business Goals:** Strategic objectives driving the enterprise, shaping the EA’s focus.
+    - **Example:** A retail company’s goal to “increase online sales by 50% in 2 years” pushes the EA team to prioritize e-commerce capabilities over physical store systems.
+    - **Example:** A healthcare provider aiming to “improve patient data access” focuses the EA on interoperable systems and data security.
+  - **Structure:** The organizational hierarchy and reporting lines affecting EA governance and team setup.
+    - **Example:** A flat startup with 50 employees might centralize EA under one leader (e.g., CTO), while a multinational corporation with 10,000 staff might distribute EA roles across regions (e.g., regional architects reporting to a global EA board).
+    - **Example:** A matrix organization (e.g., project-based teams) might require EA team members embedded in business units for better alignment.
+  - **Culture:** Values and behaviors that impact EA adoption and tailoring.
+    - **Example:** An agile, innovation-driven culture (e.g., a tech startup) favors a lightweight, iterative EA approach, while a risk-averse, regulated culture (e.g., banking) demands detailed documentation and compliance checks.
+    - **Example:** A collaborative culture might encourage stakeholder workshops, whereas a top-down culture relies on executive mandates.
+
+- **Existing Frameworks:** Current EA practices or standards in use provide a starting point for tailoring the new framework.
+  - **Detail:** These might include formal EA frameworks, informal practices, or industry standards already adopted by the organization.
+  - **Examples:**
+    - **TOGAF in Use:** A company partially using TOGAF (e.g., Phases A-D only) might expand to the full ADM cycle, leveraging existing deliverables like an Architecture Vision.
+    - **Zachman Framework:** An organization using Zachman’s grid might integrate TOGAF’s process-oriented ADM to add execution structure.
+    - **ITIL Practices:** A firm with ITIL for service management might tailor TOGAF to align EA with IT service goals (e.g., emphasizing Phase G governance).
+    - **No Formal Framework:** A small business with ad-hoc EA (e.g., Visio diagrams) starts fresh with TOGAF, formalizing its approach.
 
 ## Outputs
 - **Architecture Principles:** Documented guidelines (e.g., “Data is an Asset”).
