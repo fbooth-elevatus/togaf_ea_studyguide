@@ -10,14 +10,14 @@ Welcome to the **TOGAF EA Study Guide** repository! This project is designed to 
 ## Repository Structure
 - **[ADM/](ADM/README.md)**: Summaries of each TOGAF ADM phase for study and reference.
   - [Preliminary Phase](ADM/Preliminary.md)
-  - [Phase A: Architecture Vision](ADM/Phase-A.md)
-  - [Phase B: Business Architecture](ADM/Phase-B.md)
-  - [Phase C: Information Systems Architecture](ADM/Phase-C.md)
-  - [Phase D: Technology Architecture](ADM/Phase-D.md)
-  - [Phase E: Opportunities and Solutions](ADM/Phase-E.md)
-  - [Phase F: Migration Planning](ADM/Phase-F.md)
-  - [Phase G: Implementation Governance](ADM/Phase-G.md)
-  - [Phase H: Architecture Change Management](ADM/Phase-H.md)
+  - [Phase A: Architecture Vision](ADM/Phase-A_Architecture-Vision.md)
+  - [Phase B: Business Architecture](ADM/Phase-B_Business-Vision.md)
+  - [Phase C: Information Systems Architecture](ADM/Phase-C_Information-Systems-Architecture.md)
+  - [Phase D: Technology Architecture](ADM/Phase-D_Technology-Architecture.md)
+  - [Phase E: Opportunities and Solutions](ADM/Phase-E_Opportunities-and-Solutions.md)
+  - [Phase F: Migration Planning](ADM/Phase-F_Migration-Planning.md)
+  - [Phase G: Implementation Governance](ADM/Phase-G_Implementation-Governance.md)
+  - [Phase H: Architecture Change Management](ADM/Phase-H_Architecture-Change-Management.md)
   - *(Requirements Management to be added)*
 
 - **[Templates/](Templates/)**: Reusable Markdown templates for EA project deliverables.
