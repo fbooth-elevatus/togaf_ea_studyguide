@@ -1,15 +1,15 @@
-# togaf_ea_studyguide
+# TOGAF ADM Study and Templates
 
-## Section 2
-### Exam Content
+This repository is designed for studying the TOGAF Enterprise Architecture Part 1 exam and provides practical templates for EA projects.
 
-The TOGAF Fundamental Concepts:
-- Introduction and Core Concepts
-- Architecture Development Method (ADM)
-- ADM techniques
-- Applying the ADM
-- Architecture Content
-- Enterprise Architecture Capability and Governance
+## Structure
+- **ADM/**: Summaries of each ADM phase for study.
+- **Templates/**: Reusable Markdown templates for EA deliverables.
 
-The TOGAF Fundamental Concepts above are the content of the TOGAF EA Part 1 test.
+## How to Use
+1. Clone the repo: `git clone <url>`
+2. Study the ADM phase files for TOGAF concepts.
+3. Use the templates for practice or real EA projects.
 
+## Contributions
+Feel free to fork and submit pull requests with enhancements!
