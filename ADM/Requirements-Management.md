@@ -1,0 +1,97 @@
+# Requirements Management
+
+## Purpose
+
+The **Requirements Management** process ensures that all architectural requirements are **captured, validated, and maintained** throughout the enterprise architecture lifecycle. It acts as a **continuous process**, ensuring that evolving business needs, regulatory changes, and technological advancements are **properly integrated into architecture development**.
+
+## Objectives
+
+- **Establish a structured approach** to collect, document, and manage requirements.
+- **Ensure traceability** of requirements across all architecture phases.
+- **Facilitate impact analysis** to assess the effect of changing requirements on architecture.
+- **Maintain consistency** in aligning requirements with business goals and enterprise architecture principles.
+- **Enable change management** by providing a controlled mechanism to modify requirements when necessary.
+
+---
+
+## Approach
+
+Requirements Management is **a central process in the TOGAF ADM** that interacts with **all phases** of the architecture lifecycle. As business needs evolve, this phase ensures that changes are **evaluated, prioritized, and integrated without disrupting architectural integrity**.
+
+- Requirements are **identified** and **analyzed** during early ADM phases.
+- Requirements are **validated and refined** in later ADM phases.
+- New or modified requirements **feed back** into architecture development for continuous improvement.
+
+---
+
+## Steps
+
+### 1. Capture Business and IT Requirements
+- **What:** Identify **functional, non-functional, business, and compliance requirements** from stakeholders.
+- **Example:** A **banking institution** defines a requirement for **real-time fraud detection** in online transactions.
+
+### 2. Validate and Prioritize Requirements
+- **What:** Assess **feasibility, impact, and alignment with business goals**.
+- **Example:** A **healthcare provider** prioritizes **HIPAA compliance and patient data encryption** over UI design improvements.
+
+### 3. Store and Maintain Requirements Repository
+- **What:** Centralize **all requirements in a structured repository** for tracking and version control.
+- **Example:** A **telecommunications company** uses **Jira and Confluence** to manage **5G infrastructure upgrade requirements**.
+
+### 4. Assess Impact on Architecture
+- **What:** Analyze how **new requirements affect existing architecture components**.
+- **Example:** A **retail chain** evaluates the impact of **omnichannel shopping experiences** on its **current e-commerce and inventory systems**.
+
+### 5. Ensure Traceability Across ADM Phases
+- **What:** Link requirements to **business goals, architecture artifacts, and implementation projects**.
+- **Example:** A **manufacturing firm** ensures that **IoT-driven predictive maintenance** aligns with **enterprise data strategy and cloud adoption roadmap**.
+
+### 6. Handle Requirement Changes
+- **What:** Implement a **change management process** to review, approve, and integrate modifications.
+- **Example:** A **government agency** updates its **national identity verification system** to comply with **new data privacy laws**.
+
+### 7. Feed Changes Back into ADM Cycle
+- **What:** Continuously **refine and integrate evolving requirements** into architecture.
+- **Example:** A **fintech startup** revises its **AI-based credit risk assessment models** based on **new regulatory guidance from financial authorities**.
+
+---
+
+## Inputs
+
+| Input | Description | Example |
+|---|---|---|
+| **Business Strategy & Objectives** | Defines high-level goals and strategic priorities. | A **cloud services provider** prioritizing **cost-optimized multi-cloud strategies**. |
+| **Stakeholder Requirements** | Functional and non-functional needs from business and IT. | A **pharmaceutical company** requiring **AI-based drug discovery tools**. |
+| **Compliance & Regulatory Standards** | Defines legal and industry-mandated requirements. | A **healthcare network** ensuring **GDPR-compliant patient data processing**. |
+| **Enterprise Policies & Guidelines** | Internal frameworks governing IT and business operations. | A **banking firm** enforcing **risk management policies in IT projects**. |
+| **Previous ADM Iterations** | Architecture components and decisions from past ADM cycles. | A **retail chain** reviewing **legacy POS system dependencies before migration**. |
+
+---
+
+## Outputs
+
+| Output | Description | Example |
+|---|---|---|
+| **Requirements Repository** | A centralized system for capturing and tracking requirements. | A **telecom company** storing **5G deployment requirements in ServiceNow**. |
+| **Traceability Matrices** | Maps requirements to business goals and architecture artifacts. | A **logistics company** mapping **fleet tracking system enhancements** to **supply chain KPIs**. |
+| **Impact Assessment Reports** | Evaluates how new requirements affect architecture components. | A **government cybersecurity agency** assessing **zero-trust security adoption impact**. |
+| **Updated Architecture Roadmap** | Aligns new requirements with implementation priorities. | A **global retailer** integrating **AI-driven customer insights** into **next-year IT strategy**. |
+| **Change Request Log** | Tracks modifications and approvals to ensure governance. | A **financial institution** managing **blockchain transaction security updates**. |
+
+---
+
+## Popular Tools for Requirements Management
+
+| Tool | Description | Use Case |
+|---|---|---|
+| **Jira** | Agile project management and requirements tracking. | **Managing iterative changes in cloud migration projects**. |
+| **IBM DOORS** | Enterprise requirements management. | **Tracking compliance for aerospace and defense architectures**. |
+| **ServiceNow ITBM** | IT business management and change tracking. | **Aligning IT projects with enterprise architecture objectives**. |
+| **Confluence** | Centralized documentation and collaboration. | **Storing and versioning architecture-related requirements**. |
+| **Azure DevOps** | DevOps lifecycle management and backlog tracking. | **Managing infrastructure modernization requirements**. |
+
+---
+
+## Summary
+
+The **Requirements Management phase** ensures that **business needs, IT capabilities, and regulatory changes** are **continuously tracked, validated, and integrated** into the architecture lifecycle. By maintaining a **structured, traceable, and iterative process**, organizations can **adapt to change while maintaining architectural integrity**.
