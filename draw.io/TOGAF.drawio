@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16" pages="12">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16" pages="14">
   <diagram name="TOGAF" id="OLtwp2suYtCRtV73h79h">
     <mxGraphModel dx="1674" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1562,6 +1562,142 @@
         </mxCell>
         <mxCell id="t2YD2Qflo8mtPsNIO_a9-1" value="A.&lt;div&gt;Architecture Vision&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="850" y="-269.93" width="279.87" height="279.87" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="de035vI-euDdWZj_2QLi" name="Phase B - Business Vision">
+    <mxGraphModel dx="632" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aNMoYL4H2akapoYlB-B2-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1530" y="250" width="1500" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-2" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Phase B - Business Architecture&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="aNMoYL4H2akapoYlB-B2-1">
+          <mxGeometry x="10" width="1500" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aNMoYL4H2akapoYlB-B2-1" source="aNMoYL4H2akapoYlB-B2-4" target="aNMoYL4H2akapoYlB-B2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Objectives&lt;/h1&gt;&lt;p&gt;Develop the target business architecture that describes how the enterprise needs to operate to achieve business goals, and respond to the strategic drivers set out in the Architecture Vision, in a way that addresses the Statement of Architecture Work and stakeholder concerns&lt;br&gt;&lt;/p&gt;&lt;p&gt;Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Business Architectures.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aNMoYL4H2akapoYlB-B2-1">
+          <mxGeometry x="30" y="110" width="300" height="275" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aNMoYL4H2akapoYlB-B2-1" source="aNMoYL4H2akapoYlB-B2-6" target="aNMoYL4H2akapoYlB-B2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Inputs&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Architecture reference materials&lt;/li&gt;&lt;li&gt;Request for Architecture Work (preliminary phase)&lt;/li&gt;&lt;li&gt;Business principles, business goals, and business drivers (preliminary phase)&lt;/li&gt;&lt;li&gt;Capability Assessment (Phase A)&lt;/li&gt;&lt;li&gt;Communication Plan (Phase A)&lt;/li&gt;&lt;li&gt;Organizational Model for Enterprise Architecture (preliminary phase)&lt;/li&gt;&lt;li&gt;Tailored Architecture Framework (preliminary phase)&lt;/li&gt;&lt;li&gt;Approved Principles (Phase A)&lt;/li&gt;&lt;li&gt;Draft Architecture Definition Document (Phase A)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aNMoYL4H2akapoYlB-B2-1">
+          <mxGeometry x="30" y="412.5" width="300" height="287.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="aNMoYL4H2akapoYlB-B2-1" source="aNMoYL4H2akapoYlB-B2-8" target="aNMoYL4H2akapoYlB-B2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Steps&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Select reference models, view points, and tools&lt;/li&gt;&lt;li&gt;Develop Baseline Business Architecture Description&lt;/li&gt;&lt;li&gt;Develop Target Business Architecture Description&lt;/li&gt;&lt;li&gt;Perform gap analysis&lt;/li&gt;&lt;li&gt;Define candidate roadmap components&lt;/li&gt;&lt;li&gt;Resolve impacts across the Architecture Landscape&lt;/li&gt;&lt;li&gt;Conduct formal stakeholder review&lt;/li&gt;&lt;li&gt;Finalize the Business Architecture&lt;/li&gt;&lt;li&gt;Create / Update the Architecture Definition Document&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aNMoYL4H2akapoYlB-B2-1">
+          <mxGeometry x="410" y="269.09000000000003" width="300" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="aNMoYL4H2akapoYlB-B2-1" source="aNMoYL4H2akapoYlB-B2-10" target="aNMoYL4H2akapoYlB-B2-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Outputs&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Refined and updated versions of the Architecture Vision phase deliverables&lt;/li&gt;&lt;li&gt;Draft Architecture Definition Document&lt;/li&gt;&lt;li&gt;Draft Architecture Requirements Specification&lt;/li&gt;&lt;li&gt;Business Architecture components of an Architecture Roadmap&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aNMoYL4H2akapoYlB-B2-1">
+          <mxGeometry x="770" y="247.84" width="300" height="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Artifacts Produced&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Catalogs:&amp;nbsp; Value stream, business capabilities, value stream stages, organization / actor, driver / goal / objective, role, business / service / function, location, process / event / control / product, contract / measure.&lt;/li&gt;&lt;li&gt;Diagrams:&amp;nbsp; Business model, capabilities map, value stream map, organization map, business footprint, business service/information, function decomposition, product lifecycle, goal/objective/service, business use-case, organization decomposition, process flow, event flow.&lt;/li&gt;&lt;li&gt;Matrices: Value stream/capability, strategy/capability, capability/organization, business interaction, actor/role.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="aNMoYL4H2akapoYlB-B2-1">
+          <mxGeometry x="1145" y="255.68" width="300" height="286.81" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-12" value="&lt;b&gt;Catalogs&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="590" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNMoYL4H2akapoYlB-B2-11" target="aNMoYL4H2akapoYlB-B2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-14" value="&lt;b&gt;Diagrams&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="634.99" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-15" value="&lt;b&gt;Matrices&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="680" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNMoYL4H2akapoYlB-B2-11" target="aNMoYL4H2akapoYlB-B2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNMoYL4H2akapoYlB-B2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNMoYL4H2akapoYlB-B2-11" target="aNMoYL4H2akapoYlB-B2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxdzyvs5kTXFQtaLpg3Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bxdzyvs5kTXFQtaLpg3Z-1" target="aNMoYL4H2akapoYlB-B2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bxdzyvs5kTXFQtaLpg3Z-1" value="B.&lt;div&gt;Business Vision&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="505" width="260" height="260" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0gYQ6AtktZKKI2uZKcOp" name="Phase C - Information System Architecture">
+    <mxGraphModel dx="632" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1530" y="1070" width="1500" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-2" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Phase C - Information System Architecture (Data and Application)&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="dpPPTVTf9zOn9ak3D1GF-1">
+          <mxGeometry x="10" width="1500" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dpPPTVTf9zOn9ak3D1GF-1" source="dpPPTVTf9zOn9ak3D1GF-4" target="dpPPTVTf9zOn9ak3D1GF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Objectives&lt;/h1&gt;&lt;p&gt;Develop the Target Data / Application Architecture that enables the Business Architecture and the Architecture Vision, in a way that addresses the Statement of Work and stakeholder concerns.&lt;br&gt;&lt;/p&gt;&lt;p&gt;Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Data / Application Architectures&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dpPPTVTf9zOn9ak3D1GF-1">
+          <mxGeometry x="30" y="170" width="300" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dpPPTVTf9zOn9ak3D1GF-1" source="dpPPTVTf9zOn9ak3D1GF-6" target="dpPPTVTf9zOn9ak3D1GF-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Inputs&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Architecture reference materials&lt;/li&gt;&lt;li&gt;Request for Architecture Work (preliminary phase)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Capability Assessment (Phase A)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Communication Plan (Phase A)&lt;/li&gt;&lt;li&gt;Organizational Model for Enterprise Architecture (preliminary phase)&lt;/li&gt;&lt;li&gt;Tailored Architecture Framework (preliminary phase)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Approved Application Principles (Phase A)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Statement of Architecture Work (Phase A)&lt;/li&gt;&lt;li&gt;Architecture Vision (Phase A)&lt;/li&gt;&lt;li&gt;Architecture Repository&amp;nbsp;&lt;/li&gt;&lt;li&gt;Draft Architecture Definition Document (Phase B)&lt;/li&gt;&lt;li&gt;Draft Architecture Requirements Specification (Phase B)&lt;/li&gt;&lt;li&gt;Business (and Data for Application) Architecture components of an Architecture Roadmap. (Phase B)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dpPPTVTf9zOn9ak3D1GF-1">
+          <mxGeometry x="30" y="412.5" width="300" height="347.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dpPPTVTf9zOn9ak3D1GF-1" source="dpPPTVTf9zOn9ak3D1GF-8" target="dpPPTVTf9zOn9ak3D1GF-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Steps&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Select reference models, view points, and tools&lt;/li&gt;&lt;li&gt;Develop Baseline Business Architecture Description&lt;/li&gt;&lt;li&gt;Develop Target Business Architecture Description&lt;/li&gt;&lt;li&gt;Perform gap analysis&lt;/li&gt;&lt;li&gt;Define candidate roadmap components&lt;/li&gt;&lt;li&gt;Resolve impacts across the Architecture Landscape&lt;/li&gt;&lt;li&gt;Conduct formal stakeholder review&lt;/li&gt;&lt;li&gt;Finalize the Business Architecture&lt;/li&gt;&lt;li&gt;Create / Update the Architecture Definition Document&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dpPPTVTf9zOn9ak3D1GF-1">
+          <mxGeometry x="410" y="269.09000000000003" width="300" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dpPPTVTf9zOn9ak3D1GF-1" source="dpPPTVTf9zOn9ak3D1GF-10" target="dpPPTVTf9zOn9ak3D1GF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Outputs&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Refined and updated versions of the Architecture Vision phase deliverables&lt;/li&gt;&lt;li&gt;Draft Architecture Definition Document&lt;/li&gt;&lt;li&gt;Draft Architecture Requirements Specification&lt;/li&gt;&lt;li&gt;Data / Application Architecture components of an Architecture Roadmap&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dpPPTVTf9zOn9ak3D1GF-1">
+          <mxGeometry x="770" y="247.84" width="300" height="302.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Artifacts Produced&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Data Architecture:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Catalogs:&amp;nbsp; Data/entity/data component&lt;/li&gt;&lt;li&gt;Diagrams: Conceptual data, logical data, data dissemination, data security, data migration, data lifecycle&lt;/li&gt;&lt;li&gt;Matrices: Data entity/business function, application/data&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;b&gt;Application Architecture:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Catalogs:&amp;nbsp; Application portfolio, interface&lt;/li&gt;&lt;li&gt;Diagrams:&amp;nbsp; Application communication, application &amp;amp; user location, application use-case, enterprise manageability, process/application realization, software engineering, application migration, software distribution&lt;/li&gt;&lt;li&gt;Matrices:&amp;nbsp; Application/organization, role/matrix, application function, application interaction&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="dpPPTVTf9zOn9ak3D1GF-1">
+          <mxGeometry x="1145" y="226.02" width="300" height="324.32" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-12" value="&lt;b&gt;Catalogs&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3115" y="1398.18" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dpPPTVTf9zOn9ak3D1GF-11" target="dpPPTVTf9zOn9ak3D1GF-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2970" y="1399" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-14" value="&lt;b&gt;Diagrams&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3115" y="1443.17" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-15" value="&lt;b&gt;Matrices&lt;/b&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3115" y="1488.18" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dpPPTVTf9zOn9ak3D1GF-11" target="dpPPTVTf9zOn9ak3D1GF-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2970" y="1400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dpPPTVTf9zOn9ak3D1GF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dpPPTVTf9zOn9ak3D1GF-11" target="dpPPTVTf9zOn9ak3D1GF-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2970" y="1399" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6ryVMp08QCgATXfSPRK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n6ryVMp08QCgATXfSPRK-1" target="dpPPTVTf9zOn9ak3D1GF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n6ryVMp08QCgATXfSPRK-1" value="C.&amp;nbsp;&lt;div&gt;Information Systems&lt;/div&gt;&lt;div&gt;Architectures&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1270" width="370" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -4,6 +4,10 @@
 
 The **Business Architecture** phase defines how an enterprise operates to achieve its strategic objectives. It establishes a structured understanding of **business processes, organizational structures, information flows, and capabilities**. This phase ensures that business goals align with **technology, IT systems, and enterprise applications**. It provides the foundation for the **Data, Application, and Technology Architectures** in later phases.
 
+---
+![Phase B: Business Vision](../images/TOGAF-Phase%20B%20-%20Business%20Vision.drawio.png)
+---
+
 ## Objectives
 
 - **Define the Target Business Architecture** – Describe the **desired future state** of business processes, roles, and capabilities.

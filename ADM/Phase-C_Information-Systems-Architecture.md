@@ -4,6 +4,10 @@
 
 The **Information Systems Architecture** phase focuses on developing the **Data Architecture** and **Application Architecture** needed to support business operations and strategic goals. This phase ensures that information systems are structured to effectively **store, manage, process, and exchange data**, while applications are aligned with **business processes and user needs**.
 
+---
+![Phase C: Information System Architecture](../images/TOGAF-Phase%20C%20-%20Information%20System%20Architecture.drawio.png)
+---
+
 ## Objectives
 
 - **Develop Target Data Architecture** – Define how data is structured, stored, and accessed across the enterprise.
