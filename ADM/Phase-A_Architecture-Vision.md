@@ -3,7 +3,9 @@
 ## Purpose
 
 The **Architecture Vision** phase establishes a high-level view of the **target architecture** and ensures alignment with business goals. It sets the foundation for enterprise architecture efforts, securing stakeholder agreement on the **scope, objectives, and expected outcomes** of the architecture project.
-
+---
+![Phase A: Architecture Vision](../images/TOGAF-Phase%20A%20-%20Architecture%20Vision.drawio.png)
+---
 ## Objectives
 
 - **Define the Scope of the Architecture** – Identify the **business, data, application, and technology domains** involved.
