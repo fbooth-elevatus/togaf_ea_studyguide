@@ -1,0 +1,1076 @@
+[
+    {
+        "question": "Which of the following best completes the next sentence: The Enterprise Continuum aids communication _______",
+        "options": [
+            "Within enterprises",
+            "With vendor organizations",
+            "By providing a consistent language to communicate the differences between architecture",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "The Enterprise Continuum aids communication by providing a consistent language (C), which supports interactions within enterprises, with vendors, and across contexts, making 'All of these' (D) the most comprehensive answer."
+    },
+    {
+        "question": "Which one of the following is a change that can always be handled by change management techniques?",
+        "options": [
+            "Incremental change",
+            "Re-architecting change",
+            "Regulatory change",
+            "Simplification change"
+        ],
+        "answer": 0,
+        "explanation": "Incremental change (A) is a small, manageable adjustment that change management can consistently handle, unlike re-architecting (major overhaul) or regulatory changes (external mandates), which may exceed typical scope."
+    },
+    {
+        "question": "Which of the ADM phases includes the development of Application and Data Architectures?",
+        "options": [
+            "Phase A",
+            "Phase B",
+            "Phase C",
+            "Phase D",
+            "Phase E"
+        ],
+        "answer": 2,
+        "explanation": "Phase C (C) is the Information Systems Architecture phase, where both Application and Data Architectures are developed, as defined in the TOGAF ADM."
+    },
+    {
+        "question": "Which of the following documents is produced early in the project lifecycle and contains a summary view of the end architecture project?",
+        "options": [
+            "Architecture Contract",
+            "Architecture Definition Document",
+            "Architecture Requirements Specification",
+            "Architecture Roadmap",
+            "Architecture Vision"
+        ],
+        "answer": 4,
+        "explanation": "The Architecture Vision (E) is produced in Phase A, early in the lifecycle, offering a high-level summary of the end architecture to align stakeholders."
+    },
+    {
+        "question": "Which one of the following does not complete the sentence: When executing the ADM, the architect is not only developing a snapshot of the enterprise, but is also populating the _______",
+        "options": [
+            "Architecture Repository",
+            "Architecture Capability Framework",
+            "Enterprise Continuum",
+            "Foundation Architecture"
+        ],
+        "answer": 1,
+        "explanation": "The Architecture Capability Framework (B) is a set of guidelines, not a container populated during ADM execution, unlike the Repository, Continuum, and Foundation Architecture."
+    },
+    {
+        "question": "Which of the following documents acts as the deliverable container for the Business, Data, Application, and Technology architectural artifacts?",
+        "options": [
+            "Architecture Contract",
+            "Architecture Definition Document",
+            "Architecture Requirements Specification",
+            "Architecture Roadmap",
+            "Architecture Vision"
+        ],
+        "answer": 1,
+        "explanation": "The Architecture Definition Document (B) is the primary container for all architectural artifacts (Business, Data, Application, Technology) across ADM phases."
+    },
+    {
+        "question": "How is the III-RM classified in terms of the Enterprise Continuum?",
+        "options": [
+            "Industry Solution",
+            "Foundation Architecture",
+            "Common Systems Architecture",
+            "Common Systems Solution"
+        ],
+        "answer": 2,
+        "explanation": "The III-RM (Integrated Information Infrastructure Reference Model) is classified as a Common Systems Architecture (C) in the Enterprise Continuum, focusing on shared system components."
+    },
+    {
+        "question": "A gap analysis reveals that an Architecture Building Block that was present in the Baseline Architecture is missing in the Target Architecture. Which of the following does not apply?",
+        "options": [
+            "A review should occur.",
+            "If the building block was correctly eliminated, it should be added to the Target Architecture in the next iteration.",
+            "If the building block was correctly eliminated, it should be marked as such in the 'Eliminated' cell.",
+            "If the building block was incorrectly eliminated, it should be reinstated to the architecture design in the next iteration.",
+            "If the building block was incorrectly eliminated, it should be recorded as an accidental omission."
+        ],
+        "answer": 1,
+        "explanation": "If correctly eliminated, the block should not be added back (B) to the Target Architecture, as that contradicts the decision; it’s marked as eliminated (C) instead."
+    },
+    {
+        "question": "Which one of the following is considered a relevant resource for Phase B available from the Architecture Repository?",
+        "options": [
+            "The ARTS data model",
+            "Business rules, job descriptions",
+            "The III-RM",
+            "The TOGAF Technical Reference Model"
+        ],
+        "answer": 1,
+        "explanation": "Business rules and job descriptions (B) are relevant for Phase B (Business Architecture), providing context for processes and roles, unlike other options focused on different domains."
+    },
+    {
+        "question": "Complete the sentence: The process of managing architecture requirements applies to _______",
+        "options": [
+            "All ADM phases",
+            "The Preliminary Phase",
+            "Phase A: Architecture Vision",
+            "The Requirements Management phase"
+        ],
+        "answer": 0,
+        "explanation": "Architecture requirements management (A) is a continuous process across all ADM phases, not limited to one phase, as per TOGAF’s central Requirements Management process."
+    },
+    {
+        "question": "Which of the following responses does not complete the next sentence? The Solutions Continuum _______",
+        "options": [
+            "Provides a way to understand the implementation of assets defined in the Architecture Continuum",
+            "Addresses the commonalities and differences among the products, systems, and services of an implemented system",
+            "Can be considered to have at each level a set of building blocks that represent a solution to the business requirements at that level",
+            "Contains a number of re-usable Architecture Building Blocks",
+            "Has a relationship to the Architecture Continuum that includes guidance, direction, and support"
+        ],
+        "answer": 3,
+        "explanation": "Architecture Building Blocks (ABBs) (D) are part of the Architecture Continuum, not the Solutions Continuum, which focuses on Solution Building Blocks (SBBs)."
+    },
+    {
+        "question": "Complete the sentence: According to the TOGAF standard, all of the following are part of the approach to the Preliminary Phase, except _______",
+        "options": [
+            "Creating the Architecture Vision",
+            "Defining the enterprise",
+            "Defining the framework to be used",
+            "Evaluating the Enterprise Architecture maturity"
+        ],
+        "answer": 0,
+        "explanation": "Creating the Architecture Vision (A) occurs in Phase A, not the Preliminary Phase, which focuses on preparation activities like defining the enterprise and framework."
+    },
+    {
+        "question": "Which one of the following best describes an Architecture Contract?",
+        "options": [
+            "An agreement between the development partners and stakeholders on the acceptable risks and mitigating actions for an architecture",
+            "An agreement between development partners and sponsors on the deliverables, quality, and fitness-for-purpose of an architecture",
+            "An agreement between the lead architect and the development partners on the enforcement of Architecture Compliance for an architecture",
+            "An agreement between development partners and sponsors on how best to monitor implementation of the architecture"
+        ],
+        "answer": 1,
+        "explanation": "An Architecture Contract (B) defines deliverables, quality, and fitness-for-purpose between development partners and sponsors, typically in Phase G."
+    },
+    {
+        "question": "Which of the following statements is not correct?",
+        "options": [
+            "A concern might include performance and reliability.",
+            "A concern is an area of interest.",
+            "Concerns are key interests of the stakeholders.",
+            "Concern and requirement are synonymous."
+        ],
+        "answer": 3,
+        "explanation": "Concern and requirement (D) are not synonymous; concerns are stakeholder interests that lead to requirements, not the requirements themselves."
+    },
+    {
+        "question": "In which ADM phase is an Architecture Contract developed to cover the overall implementation and deployment process?",
+        "options": [
+            "Phase E",
+            "Phase F",
+            "Phase G",
+            "Phase H"
+        ],
+        "answer": 2,
+        "explanation": "Phase G (C) focuses on Implementation Governance, where Architecture Contracts are developed to oversee implementation and deployment."
+    },
+    {
+        "question": "Which of the following applies to an Architecture Building Block?",
+        "options": [
+            "It defines the functionality to be implemented.",
+            "It defines the implementation.",
+            "It defines what products and components will implement the functionality.",
+            "It is product or vendor-aware."
+        ],
+        "answer": 0,
+        "explanation": "An ABB (A) defines functionality to be implemented, not the specific implementation or vendor details, which are handled by Solution Building Blocks (SBBs)."
+    },
+    {
+        "question": "Which of the following statements does not apply to the Enterprise Continuum?",
+        "options": [
+            "It is a repository of all known architecture assets and artifacts in the IT industry.",
+            "It is a view of the Architecture Repository.",
+            "It provides methods for classifying architecture and solution assets.",
+            "It is an important aid to communication for architects on both the buy and supply-side.",
+            "It is an aid to organization of re-usable and solution assets."
+        ],
+        "answer": 0,
+        "explanation": "The Enterprise Continuum is not a repository (A) but a virtual framework for classifying assets; the Architecture Repository is the actual storage."
+    },
+    {
+        "question": "Which of the following was a key driver for the development of the III-RM?",
+        "options": [
+            "Boundaryless Information Flow",
+            "Clinger-Cohen",
+            "PRINCE2",
+            "Sarbanes-Oxley"
+        ],
+        "answer": 0,
+        "explanation": "Boundaryless Information Flow (A) was a key driver for the III-RM, addressing seamless data sharing across systems."
+    },
+    {
+        "question": "Which one of the following is an objective of Phase A?",
+        "options": [
+            "To review the stakeholders, their requirements, and priorities",
+            "To develop a high-level vision of the business value to be delivered",
+            "To generate and gain consensus on an outline Implementation and Migration Strategy",
+            "To formulate recommendations for each implementation project"
+        ],
+        "answer": 1,
+        "explanation": "Phase A (B) aims to develop a high-level vision of business value, setting the stage for the architecture effort."
+    },
+    {
+        "question": "Which of the TOGAF Architecture Development Method phases includes the creation and approval of the Architecture Vision document?",
+        "options": [
+            "Preliminary Phase",
+            "Phase A",
+            "Phase B",
+            "Phase C",
+            "Phase D"
+        ],
+        "answer": 1,
+        "explanation": "Phase A (B) is where the Architecture Vision document is created and approved, initiating the ADM cycle."
+    },
+    {
+        "question": "Which of the TOGAF Architecture Development Method phases is the initial phase of an Architecture Development Cycle?",
+        "options": [
+            "Preliminary Phase",
+            "Phase A",
+            "Phase B",
+            "Phase C",
+            "Phase D"
+        ],
+        "answer": 1,
+        "explanation": "Phase A (B) is the initial phase of an ADM cycle, while the Preliminary Phase is preparatory."
+    },
+    {
+        "question": "Which part of the TOGAF template for defining Architecture Principles should highlight the business benefits of adhering to the principle?",
+        "options": [
+            "Implications",
+            "Name",
+            "Rationale",
+            "Statement"
+        ],
+        "answer": 2,
+        "explanation": "The Rationale (C) in an Architecture Principle highlights the business benefits of adherence, justifying its importance."
+    },
+    {
+        "question": "Which of the following is not a characteristic of the TOGAF Foundation Architecture?",
+        "options": [
+            "It reflects general building blocks.",
+            "It defines open standards for building blocks implementation.",
+            "It provides open systems standards.",
+            "It provides guidelines for testing collections of systems.",
+            "It reflects general computing requirements."
+        ],
+        "answer": 3,
+        "explanation": "The Foundation Architecture (e.g., TRM) does not include testing guidelines (D); it focuses on generic standards and building blocks."
+    },
+    {
+        "question": "Which one of the following is an objective of Phase H: Architecture Change Management?",
+        "options": [
+            "Finalize the Architecture Roadmap",
+            "Manage architecture requirements identified during execution of the ADM cycle",
+            "Perform Architecture Governance functions for the solution",
+            "Operate the Architecture Governance Framework"
+        ],
+        "answer": 3,
+        "explanation": "Phase H (D) operates the governance framework to manage changes, ensuring the architecture remains effective."
+    },
+    {
+        "question": "Which part of the TOGAF document provides a number of architecture development phases, together with narratives for each phase?",
+        "options": [
+            "Part I: Introduction",
+            "Part II: Architecture Development Method (ADM)",
+            "Part III: ADM Guidelines and Techniques",
+            "Part IV: Architecture Content Framework",
+            "Part V: Enterprise Continuum and Tools"
+        ],
+        "answer": 1,
+        "explanation": "Part II (B) details the ADM phases and their narratives, forming the core of TOGAF’s methodology."
+    },
+    {
+        "question": "Which one of the following reference building blocks is not part of the Solutions Continuum?",
+        "options": [
+            "Systems libraries",
+            "Organization-specific solutions",
+            "Foundation solutions",
+            "Common systems solutions",
+            "Industry solutions"
+        ],
+        "answer": 0,
+        "explanation": "Systems libraries (A) are not part of the Solutions Continuum, which includes Foundation, Common Systems, Industry, and Organization-Specific solutions."
+    },
+    {
+        "question": "Complete the sentence: All of the following are key Architecture Governance processes, except _______",
+        "options": [
+            "Compliance",
+            "Dispensation",
+            "Monitoring and reporting",
+            "Budgetary control",
+            "Business control"
+        ],
+        "answer": 3,
+        "explanation": "Budgetary control (D) is a financial process, not a core Architecture Governance process like compliance or monitoring."
+    },
+    {
+        "question": "Which one of the following describes three principles of The Open Group Certification for People: TOGAF Certification Program?",
+        "options": [
+            "Integrity, Scalability, Flexibility",
+            "Objectivity, Robustness, Simplicity",
+            "Openness, Fairness, Quality",
+            "Knowledge-based, Valuable, Simplicity"
+        ],
+        "answer": 2,
+        "explanation": "Openness, Fairness, and Quality (C) are the three principles of the TOGAF Certification Program per Open Group policy."
+    },
+    {
+        "question": "Which of the following statements about Architecture Governance is not correct?",
+        "options": [
+            "It is the practice and orientation by which Enterprise Architectures and other architectures are managed and controlled.",
+            "The Chief Architect manages the Architecture Governance activity.",
+            "An Architecture Governance Framework supports it.",
+            "It is a set of owned responsibilities that ensure the integrity and effectiveness of the organization's architecture."
+        ],
+        "answer": 1,
+        "explanation": "The Architecture Board, not the Chief Architect (B), typically manages Architecture Governance activities in TOGAF."
+    },
+    {
+        "question": "Which of the following statements does not describe the phases of the ADM?",
+        "options": [
+            "They are cyclical.",
+            "They are iterative.",
+            "Each phase refines the scope.",
+            "Each phase is mandatory."
+        ],
+        "answer": 3,
+        "explanation": "ADM phases are not mandatory (D); TOGAF recommends tailoring, which may omit phases, unlike the cyclical and iterative nature."
+    },
+    {
+        "question": "Which class of architectural information held within the Architecture Repository would contain adopted reference models?",
+        "options": [
+            "Architecture Metamodel",
+            "Architecture Capability",
+            "Standards Information Base",
+            "Reference Library"
+        ],
+        "answer": 3,
+        "explanation": "The Reference Library (D) holds adopted reference models, such as the TRM or III-RM, for reuse in architecture work."
+    },
+    {
+        "question": "Which of the following ADM phases is where SBBs first appear in the ADM cycle?",
+        "options": [
+            "Phase A",
+            "Phase B",
+            "Phase D",
+            "Phase E",
+            "Phase G"
+        ],
+        "answer": 3,
+        "explanation": "Solution Building Blocks (SBBs) first appear in Phase E (D), where implementation options are identified."
+    },
+    {
+        "question": "Which of the ADM phases commences with receipt of a Request for Architecture Work from the sponsor?",
+        "options": [
+            "Preliminary",
+            "Phase A",
+            "Phase E",
+            "Phase G",
+            "Phase H"
+        ],
+        "answer": 1,
+        "explanation": "Phase A (B) begins with the Request for Architecture Work, kicking off the ADM cycle."
+    },
+    {
+        "question": "Which one of the following is defined as describing the state of an architecture at an architecturally significant point in time during the progression from the Baseline to the Target Architecture?",
+        "options": [
+            "Capability Architecture",
+            "Foundation Architecture",
+            "Segment Architecture",
+            "Solution Architecture",
+            "Transition Architecture"
+        ],
+        "answer": 4,
+        "explanation": "Transition Architecture (E) describes significant states between Baseline and Target during implementation."
+    },
+    {
+        "question": "Which one of the following is a recommended way to evaluate the Enterprise Architecture maturity?",
+        "options": [
+            "Architecture Principles",
+            "Business Scenarios",
+            "Capability Maturity Models",
+            "Risk Management"
+        ],
+        "answer": 2,
+        "explanation": "Capability Maturity Models (C) are recommended in TOGAF to assess EA maturity."
+    },
+    {
+        "question": "Which one of the following is defined as a formal description of the enterprise, providing an executive-level long-term view for direction setting?",
+        "options": [
+            "Baseline Architecture",
+            "Business Architecture",
+            "Foundation Architecture",
+            "Segment Architecture",
+            "Strategic Architecture"
+        ],
+        "answer": 4,
+        "explanation": "Strategic Architecture (E) provides a long-term, executive-level view for direction setting."
+    },
+    {
+        "question": "Which one of the following is an architecture of generic services and functions?",
+        "options": [
+            "Application Architecture",
+            "Foundation Architecture",
+            "Segment Architecture",
+            "Solution Architecture"
+        ],
+        "answer": 1,
+        "explanation": "Foundation Architecture (B) provides generic services and functions, like the TRM."
+    },
+    {
+        "question": "Why is Architecture Governance beneficial?",
+        "options": [
+            "It links IT processes, resources, and information to organizational strategies and objectives.",
+            "It integrates and institutionalizes IT best practices.",
+            "It enables the organization to take full advantage of its information, infrastructure, and hardware/software assets.",
+            "It protects the underlying digital assets of the organization.",
+            "All of these."
+        ],
+        "answer": 4,
+        "explanation": "All listed benefits (E) are advantages of Architecture Governance per TOGAF."
+    },
+    {
+        "question": "Complete the sentence: The following are included in Architecture Governance, except _______",
+        "options": [
+            "Implementing a system of controls over expenditure within the enterprise",
+            "Implementing a system of controls over the creation and monitoring of all architecture components and activities",
+            "Establishing processes that support effective management of the Architecture Governance process",
+            "Developing practices that ensure accountability to stakeholders"
+        ],
+        "answer": 0,
+        "explanation": "Expenditure control (A) is a financial function, not a core part of Architecture Governance."
+    },
+    {
+        "question": "Where is the TOGAF Technical Reference Model positioned in terms of the Enterprise Continuum?",
+        "options": [
+            "The left-hand side of the Architecture Continuum",
+            "The right-hand side of the Architecture Continuum",
+            "The left-hand side of the Solutions Continuum",
+            "The right-hand side of the Solutions Continuum"
+        ],
+        "answer": 0,
+        "explanation": "The TRM is positioned on the left-hand side of the Architecture Continuum (A), as a generic Foundation Architecture."
+    },
+    {
+        "question": "Complete the sentence: The Enterprise Continuum provides _______",
+        "options": [
+            "An architecture framework",
+            "A database of open industry standards",
+            "Guidelines for developing a technical reference model",
+            "Methods for classifying artifacts",
+            "Techniques for developing architectures"
+        ],
+        "answer": 3,
+        "explanation": "The Enterprise Continuum provides methods for classifying artifacts (D), structuring architecture and solution assets."
+    },
+    {
+        "question": "Which level of the Architecture Landscape contains the most detail?",
+        "options": [
+            "Capability Architectures",
+            "Segment Architectures",
+            "Strategic Architectures"
+        ],
+        "answer": 0,
+        "explanation": "Capability Architectures (A) contain the most detail, focusing on specific capabilities within the enterprise."
+    },
+    {
+        "question": "Which architecture domain is the first architecture activity undertaken in the ADM cycle?",
+        "options": [
+            "Application",
+            "Business",
+            "Data",
+            "Technology"
+        ],
+        "answer": 1,
+        "explanation": "Business Architecture (B) is the first domain addressed in Phase B, following the vision in Phase A, to establish business value."
+    },
+    {
+        "question": "Which of the following in the Enterprise Continuum is an example of an internal architecture or solution artifact that is available for re-use?",
+        "options": [
+            "Deliverables from previous architecture work",
+            "Industry reference models and patterns",
+            "The TOGAF TRM",
+            "The ARTS data model"
+        ],
+        "answer": 0,
+        "explanation": "Deliverables from previous architecture work (A) are internal, reusable artifacts within the Enterprise Continuum."
+    },
+    {
+        "question": "Which of the following is not one of the main constituent parts of the TOGAF standard?",
+        "options": [
+            "The Architecture Development Method",
+            "The Enterprise Continuum & Tools",
+            "The TOGAF Technical Reference Model",
+            "The TOGAF Architecture Capability Framework"
+        ],
+        "answer": 2,
+        "explanation": "The TRM (C) is a reference model within TOGAF, not a main constituent part like the ADM or Enterprise Continuum."
+    },
+    {
+        "question": "Which of the following are considered to be the constituent parts of the Enterprise Continuum?",
+        "options": [
+            "Standards Information Base, Governance Log",
+            "TOGAF TRM, III-RM",
+            "Architecture Continuum, Solutions Continuum",
+            "Business Architecture, Application Architecture"
+        ],
+        "answer": 2,
+        "explanation": "The Enterprise Continuum consists of the Architecture Continuum and Solutions Continuum (C), classifying architecture and solution assets."
+    },
+    {
+        "question": "In an Architecture Compliance Review, who is responsible for accepting and signing off on the review?",
+        "options": [
+            "Architecture Board",
+            "Architecture Review Co-ordinator",
+            "Lead Enterprise Architect",
+            "Project Leader"
+        ],
+        "answer": 0,
+        "explanation": "The Architecture Board (A) is responsible for accepting and signing off on compliance reviews in TOGAF."
+    },
+    {
+        "question": "Which of the following is considered a model for a physical instance of the Enterprise Continuum?",
+        "options": [
+            "The Architecture Repository",
+            "The III-RM",
+            "The Standards Information Base",
+            "The TOGAF TRM"
+        ],
+        "answer": 0,
+        "explanation": "The Architecture Repository (A) serves as a physical instance storing Enterprise Continuum artifacts."
+    },
+    {
+        "question": "Where is the business scenarios technique expected to be most used in the ADM cycle?",
+        "options": [
+            "Preliminary Phase",
+            "Phase A: Architecture Vision",
+            "Phase F: Migration Planning",
+            "Phase H: Architecture Change Management"
+        ],
+        "answer": 1,
+        "explanation": "Business scenarios (B) are most used in Phase A to define business needs and align the Architecture Vision."
+    },
+    {
+        "question": "Which of the following is a technique that can be used to discover and document business requirements in Phase A?",
+        "options": [
+            "Business Scenarios",
+            "Business Transformation Readiness Assessment",
+            "Gap Analysis",
+            "Stakeholder Management"
+        ],
+        "answer": 0,
+        "explanation": "Business Scenarios (A) are a key technique in Phase A to discover and document business requirements."
+    },
+    {
+        "question": "Which of the following describes the TOGAF 9 Part 1 Examination?",
+        "options": [
+            "It is an open book examination",
+            "It has 40 simple multiple-choice questions",
+            "The exam policy requires you to wait 60 days before a retake",
+            "It contains at least four questions related to building blocks"
+        ],
+        "answer": 1,
+        "explanation": "The TOGAF 9 Part 1 Exam (B) has 40 multiple-choice questions, is closed book, and has a 30-day retake policy with two building block questions."
+    },
+    {
+        "question": "The TOGAF standard defines a set of terms to describe Architecture Compliance. Which one of the following applies to the case where an implementation has no features in common with the architecture specification?",
+        "options": [
+            "Compliant",
+            "Conformant",
+            "Irrelevant",
+            "Non-conformant"
+        ],
+        "answer": 2,
+        "explanation": "Irrelevant (C) describes an implementation with no features in common with the architecture specification per TOGAF compliance terms."
+    },
+    {
+        "question": "Which of the following are the major information areas managed by a governance repository?",
+        "options": [
+            "Foundation Architectures, Industry Architectures, Organization-Specific Architectures",
+            "Standards Information Base, Architecture Landscape, Governance Log",
+            "Reference Data, Process Status, Audit Information",
+            "Application Architecture, Business Architecture, Data Architecture"
+        ],
+        "answer": 2,
+        "explanation": "Reference Data, Process Status, and Audit Information (C) are the major areas managed by a governance repository in TOGAF."
+    },
+    {
+        "question": "Which of the following best describes the Capability-Based Planning technique?",
+        "options": [
+            "A technique used to plan the degree to which information and services are to be shared",
+            "A technique used to validate an architecture",
+            "A technique used for business planning that focuses on business outcomes",
+            "A technique used to develop general rules and guidelines for the architecture being developed"
+        ],
+        "answer": 2,
+        "explanation": "Capability-Based Planning (C) focuses on business outcomes to align architecture with strategic capabilities."
+    },
+    {
+        "question": "Which one of the following describes a statement of difference between two states?",
+        "options": [
+            "Baseline",
+            "Constraint",
+            "Deliverable",
+            "Gap",
+            "Viewpoint"
+        ],
+        "answer": 3,
+        "explanation": "A Gap (D) describes the difference between Baseline and Target states, used in gap analysis."
+    },
+    {
+        "question": "Which of the following best describes the role of architecture deliverables?",
+        "options": [
+            "They are defined so as to avoid tailoring the TOGAF framework.",
+            "They are defined as a starting point for tailoring the TOGAF framework.",
+            "They are used to measure the progress made in architecture development.",
+            "They are used to report to the stakeholders."
+        ],
+        "answer": 1,
+        "explanation": "Architecture deliverables (B) are defined as a starting point for tailoring TOGAF to specific needs."
+    },
+    {
+        "question": "Which component of the Architecture Repository provides guidelines, templates, and patterns that can be used to create new architectures?",
+        "options": [
+            "The Architecture Metamodel",
+            "The Architecture Capability",
+            "The Architecture Landscape",
+            "The Reference Library",
+            "The Governance Log"
+        ],
+        "answer": 3,
+        "explanation": "The Reference Library (D) provides guidelines, templates, and patterns for creating architectures."
+    },
+    {
+        "question": "Which of the following acts as a holding area for all architecture-related projects within the enterprise?",
+        "options": [
+            "Architecture Building Block",
+            "Architecture Repository",
+            "Architecture Roadmap",
+            "Architecture Vision"
+        ],
+        "answer": 1,
+        "explanation": "The Architecture Repository (B) holds all architecture-related project artifacts."
+    },
+    {
+        "question": "Which one of the types of architecture below is not commonly accepted as part of the Enterprise Architecture addressed by the TOGAF standard?",
+        "options": [
+            "Business Architecture",
+            "Data Architecture",
+            "Application Architecture",
+            "Technology Architecture",
+            "Pattern Architecture"
+        ],
+        "answer": 4,
+        "explanation": "Pattern Architecture (E) is not one of TOGAF’s four domains (BDAT: Business, Data, Application, Technology)."
+    },
+    {
+        "question": "A good business scenario should be 'SMART'. What does the letter 'S' stand for?",
+        "options": [
+            "Solution-oriented",
+            "Specific",
+            "Strategic",
+            "Stakeholder-oriented"
+        ],
+        "answer": 1,
+        "explanation": "In SMART, 'S' stands for Specific (B), ensuring business scenarios are clear and focused."
+    },
+    {
+        "question": "Complete the sentence: The TOGAF Integrated Information Infrastructure Reference Model (III-RM) can be classified in the Architecture Continuum as a(n) _______",
+        "options": [
+            "Common Systems Architecture",
+            "Industry Architecture",
+            "Enterprise Architecture",
+            "Foundation Architecture"
+        ],
+        "answer": 0,
+        "explanation": "The III-RM is classified as a Common Systems Architecture (A) in the Architecture Continuum."
+    },
+    {
+        "question": "Which of the following topic areas is not included in the TOGAF 9 Foundation Syllabus?",
+        "options": [
+            "Architecture Governance",
+            "Basic Concepts",
+            "Building Blocks",
+            "Guidelines for adapting the ADM: Iteration and Levels",
+            "Introduction to the ADM"
+        ],
+        "answer": 3,
+        "explanation": "Guidelines for adapting the ADM: Iteration and Levels (D) is in the TOGAF 9 Certified syllabus, not Foundation."
+    },
+    {
+        "question": "Which of these is not considered a dimension to consider when setting the scope of the architecture activity?",
+        "options": [
+            "Architecture Domains",
+            "Breadth",
+            "Depth",
+            "Data Architecture",
+            "Time Period"
+        ],
+        "answer": 3,
+        "explanation": "Data Architecture (D) is a domain, not a scoping dimension like Breadth, Depth, or Time Period."
+    },
+    {
+        "question": "The TOGAF standard defines interoperability as 'the ability to share information and services'. Which of the following categories utilizes a common look-and-feel approach through a common portal-like solution to interact with the users?",
+        "options": [
+            "Application interoperability",
+            "Information interoperability",
+            "Presentation interoperability",
+            "Technical interoperability"
+        ],
+        "answer": 2,
+        "explanation": "Presentation interoperability (C) uses a common look-and-feel via portals for user interaction."
+    },
+    {
+        "question": "Which of the TOGAF Architecture Development Method phases provides oversight of the implementation?",
+        "options": [
+            "Phase D",
+            "Phase E",
+            "Phase F",
+            "Phase G",
+            "Phase H"
+        ],
+        "answer": 3,
+        "explanation": "Phase G (D) provides oversight of implementation through governance activities."
+    },
+    {
+        "question": "Which of the following is defined as a work product that describes an aspect of an architecture?",
+        "options": [
+            "An artifact",
+            "A building block",
+            "A catalog",
+            "A deliverable"
+        ],
+        "answer": 0,
+        "explanation": "An artifact (A) is a work product describing an aspect of an architecture, per TOGAF’s Content Framework."
+    },
+    {
+        "question": "Which of the following best describes the Business Transformation Readiness Assessment technique?",
+        "options": [
+            "A technique to define the degree to which information and services are to be shared",
+            "A technique used to identify and understand the business requirements an architecture must address",
+            "A technique used to develop general rules and guidelines for the architecture being developed",
+            "A technique used to understand the readiness of an organization to accept change"
+        ],
+        "answer": 3,
+        "explanation": "The Business Transformation Readiness Assessment (D) evaluates an organization’s readiness for change."
+    },
+    {
+        "question": "In which ADM phase is an outline Implementation and Migration Strategy generated?",
+        "options": [
+            "Phase E",
+            "Phase F",
+            "Phase G",
+            "Phase H"
+        ],
+        "answer": 0,
+        "explanation": "Phase E (A) generates the outline Implementation and Migration Strategy, identifying solutions."
+    },
+    {
+        "question": "When using the ADM to establish an Architecture Capability, which phase would define the infrastructure requirements to support the practice?",
+        "options": [
+            "Application Architecture",
+            "Business Architecture",
+            "Data Architecture",
+            "Technology Architecture"
+        ],
+        "answer": 3,
+        "explanation": "Technology Architecture (D), addressed in Phase D, defines infrastructure requirements for an EA capability."
+    },
+    {
+        "question": "Which of the following is not a phase of the ADM?",
+        "options": [
+            "Preliminary Phase",
+            "Phase C: Requirements Architecture",
+            "Phase F: Migration Planning",
+            "Phase D: Technology Architecture",
+            "Phase G: Implementation Governance"
+        ],
+        "answer": 1,
+        "explanation": "Phase C: Requirements Architecture (B) is not an ADM phase; Phase C is Information Systems Architecture."
+    },
+    {
+        "question": "Which of the following best describes the purpose of the TRM?",
+        "options": [
+            "To provide a framework for IT governance",
+            "To provide a visual model, terminology, and coherent description of components and structure of an information system",
+            "To provide a method for architecture development",
+            "To provide a system engineering viewpoint on a possible solution"
+        ],
+        "answer": 1,
+        "explanation": "The TRM (B) provides a visual model and terminology for information system components."
+    },
+    {
+        "question": "Complete the sentence: Phase H _______",
+        "options": [
+            "Prepares the organization for successful TOGAF architecture projects",
+            "Develops Baseline and Target Architectures and analyzes the gaps",
+            "Prepares and issues Architecture Contracts",
+            "Ensures that the architecture responds to the needs of the enterprise",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Phase H (D) ensures the architecture adapts to enterprise needs through change management."
+    },
+    {
+        "question": "Which one of the following best describes why you need a framework for Enterprise Architecture?",
+        "options": [
+            "Architecture design is complex.",
+            "Using a framework can speed up the process.",
+            "Using a framework ensures more complete coverage.",
+            "A framework provides a set of tools and a common vocabulary.",
+            "All of these."
+        ],
+        "answer": 4,
+        "explanation": "All reasons (E) justify needing an EA framework like TOGAF for complexity, speed, coverage, and tools."
+    },
+    {
+        "question": "Which of the ADM phases includes the objective of establishing the organizational model for Enterprise Architecture?",
+        "options": [
+            "Preliminary",
+            "Phase A",
+            "Phase B",
+            "Phase D",
+            "Phase E"
+        ],
+        "answer": 0,
+        "explanation": "The Preliminary Phase (A) establishes the organizational model for EA."
+    },
+    {
+        "question": "Which one of the following is a potential resource in Phase C and is a reference model focusing on application-level components and services?",
+        "options": [
+            "The ARTS data model",
+            "Business rules, job descriptions",
+            "The III-RM",
+            "The TOGAF Technical Reference Model"
+        ],
+        "answer": 2,
+        "explanation": "The III-RM (C) is a reference model for application-level components, relevant in Phase C."
+    },
+    {
+        "question": "Which of the following is the final step in development of the four architecture domains?",
+        "options": [
+            "Conduct formal stakeholder review",
+            "Create Architecture Definition Document",
+            "Perform Gap Analysis",
+            "Select reference models, viewpoints, and tools"
+        ],
+        "answer": 1,
+        "explanation": "Creating the Architecture Definition Document (B) is the final step, consolidating all domain work."
+    },
+    {
+        "question": "In which ADM phase are the Transition Architectures defined in Phase E confirmed with the stakeholders?",
+        "options": [
+            "Phase E",
+            "Phase F",
+            "Phase G",
+            "Phase H"
+        ],
+        "answer": 1,
+        "explanation": "Phase F (B) confirms Transition Architectures with stakeholders during Migration Planning."
+    },
+    {
+        "question": "Conceptually, the structure of an Architecture Governance Framework consists of process, content, and context (stored in the repository). Which one of the following is not included in content?",
+        "options": [
+            "Compliance",
+            "SLAs and OLAs",
+            "Organizational standards",
+            "Regulatory requirements",
+            "Architectures"
+        ],
+        "answer": 0,
+        "explanation": "Compliance (A) is a process, not content, unlike SLAs, standards, and architectures stored in the repository."
+    },
+    {
+        "question": "Which of the following best describes the meaning of 'Residual Level of Risk' in risk management?",
+        "options": [
+            "The categorization prior to determining risks",
+            "The categorization after implementing mitigating actions",
+            "The categorization after the initial risk assessment",
+            "The categorization after risk identification"
+        ],
+        "answer": 1,
+        "explanation": "Residual Level of Risk (B) is the risk remaining after mitigating actions are implemented."
+    },
+    {
+        "question": "Which of the following maps to the characteristic 'transparency'?",
+        "options": [
+            "All decisions taken, processes used, and their implementation will not be allowed to create unfair advantage to any one particular party.",
+            "Each contractual party is required to act responsibly to the organization and its shareholders.",
+            "All actions implemented and their decision support will be available for inspection by authorized organizations and provider parties.",
+            "All involved parties will have a commitment to adhere to procedures, processes, and authority structures established by the organization.",
+            "All processes, decision-making, and mechanisms used will be established so as to minimize or avoid potential conflicts of interest."
+        ],
+        "answer": 2,
+        "explanation": "Transparency (C) means actions and decisions are open for inspection by authorized parties."
+    },
+    {
+        "question": "Which of the following statements does not apply to a building block?",
+        "options": [
+            "It is a package of functionality that meets business needs.",
+            "It has published interfaces to access functionality.",
+            "It may interoperate with other building blocks.",
+            "It has a specification that is tightly coupled to its implementation."
+        ],
+        "answer": 3,
+        "explanation": "Building blocks (D) should have loose coupling to implementation for flexibility, not tight coupling."
+    },
+    {
+        "question": "Which of the following terms does the TOGAF standard use to describe people who have key roles in, or concerns about, a system?",
+        "options": [
+            "Architect",
+            "Customer",
+            "Sponsor",
+            "Stakeholder"
+        ],
+        "answer": 3,
+        "explanation": "Stakeholder (D) is TOGAF’s term for individuals with key roles or concerns in a system."
+    },
+    {
+        "question": "Which of the following documents is produced in Phase A as a response to the Request for Architecture Work?",
+        "options": [
+            "Architecture Contract",
+            "Architecture Definition Document",
+            "Requirements Impact Statement",
+            "Statement of Architecture Work"
+        ],
+        "answer": 3,
+        "explanation": "The Statement of Architecture Work (D) is produced in Phase A in response to the Request for Architecture Work."
+    },
+    {
+        "question": "Which of the following statements is not correct?",
+        "options": [
+            "An architecture view can be thought of as a template for an architecture viewpoint.",
+            "An architecture viewpoint defines the perspective from which an architecture view is taken.",
+            "An architecture viewpoint defines how to construct and use an architecture view.",
+            "An architecture view is what a stakeholder sees.",
+            "An architecture view might describe business process for an IT system."
+        ],
+        "answer": 0,
+        "explanation": "It’s the reverse: a viewpoint is a template for a view (A), not vice versa, per TOGAF definitions."
+    },
+    {
+        "question": "Which of the following describes a purpose of a Standards Information Base?",
+        "options": [
+            "To provide a method for architecture development",
+            "To provide a basis for architectural governance",
+            "To provide a record of governance activity",
+            "To show an architectural view of building blocks"
+        ],
+        "answer": 1,
+        "explanation": "The Standards Information Base (B) provides a basis for governance by defining compliance standards."
+    },
+    {
+        "question": "Which one of the following best defines an entity having an interest in a system?",
+        "options": [
+            "Architect",
+            "Sponsor",
+            "Stakeholder"
+        ],
+        "answer": 2,
+        "explanation": "A Stakeholder (C) is defined as an entity with an interest in a system in TOGAF."
+    },
+    {
+        "question": "Which one of the following is the entry-level certification for an individual?",
+        "options": [
+            "TOGAF 9 Certified",
+            "TOGAF 9 Foundation",
+            "TOGAF 9 Professional",
+            "TOGAF 9 Architect"
+        ],
+        "answer": 1,
+        "explanation": "TOGAF 9 Foundation (B) is the entry-level certification; Professional and Architect are not official designations."
+    },
+    {
+        "question": "Which one of the following is not the responsibility of an Architecture Board?",
+        "options": [
+            "Resourcing of architecture projects",
+            "Decision-making with regard to changes to the architectures",
+            "Enforcement of Architecture Compliance",
+            "Monitoring of Architecture Contracts"
+        ],
+        "answer": 0,
+        "explanation": "Resourcing (A) is typically a management function, not a direct responsibility of the Architecture Board."
+    },
+    {
+        "question": "Which one of the following statements about Architecture Principles is not true?",
+        "options": [
+            "They are a set of general rules for the architecture being developed.",
+            "They are intended to be enduring and seldom amended.",
+            "They are an initial output from the Preliminary Phase.",
+            "They are used in the Requirements Management phase to dispose of, address, and prioritize requirements."
+        ],
+        "answer": 3,
+        "explanation": "Principles (D) guide requirements but are not used in Requirements Management to dispose or prioritize them."
+    },
+    {
+        "question": "Which one of the following is defined as a categorization mechanism for classifying architecture and solutions artifacts?",
+        "options": [
+            "Architecture Principle",
+            "Architecture Repository",
+            "Enterprise Continuum",
+            "Foundation Architecture"
+        ],
+        "answer": 2,
+        "explanation": "The Enterprise Continuum (C) is a categorization mechanism for classifying artifacts."
+    },
+    {
+        "question": "Which one of the following statements best describes the TOGAF standard?",
+        "options": [
+            "The TOGAF standard is a tool for developing Technology Architectures only.",
+            "The TOGAF standard is a framework and method for architecture development.",
+            "The TOGAF standard is an architecture pattern.",
+            "The TOGAF standard is a method for IT Governance."
+        ],
+        "answer": 1,
+        "explanation": "TOGAF (B) is both a framework and a method for architecture development across all domains."
+    },
+    {
+        "question": "Which one of the following best describes a reason to adapt the ADM and take a federated approach?",
+        "options": [
+            "The maturity of the architecture discipline within the enterprise",
+            "The use of the ADM in conjunction with another enterprise framework",
+            "The ADM is being used by a lead contractor in an outsourcing situation",
+            "The enterprise is very large and complex"
+        ],
+        "answer": 3,
+        "explanation": "A large and complex enterprise (D) often requires a federated approach to manage distributed architecture efforts."
+    },
+    {
+        "question": "Which of the following version numbers is used by the TOGAF standard as a convention to denote a high-level outline of an architecture?",
+        "options": [
+            "Version 0",
+            "Version 0.1",
+            "Version 0.5",
+            "Version 1.0"
+        ],
+        "answer": 1,
+        "explanation": "Version 0.1 (B) denotes a high-level outline, typically produced in Phase A."
+    },
+    {
+        "question": "Which of the following statements describing relationships between stakeholders, concerns, views, and viewpoints is correct?",
+        "options": [
+            "A concern is important to only one stakeholder.",
+            "A stakeholder identifies one or more concerns.",
+            "A viewpoint covers one concern.",
+            "A viewpoint consists of one or more views."
+        ],
+        "answer": 1,
+        "explanation": "A stakeholder identifies one or more concerns (B), reflecting their interests in the system."
+    },
+    {
+        "question": "Which of the following architecture domains does the III-RM describe?",
+        "options": [
+            "Business",
+            "Data",
+            "Application",
+            "Technology"
+        ],
+        "answer": 2,
+        "explanation": "The III-RM (C) describes Application Architecture, focusing on application-level components and services."
+    }
+]
