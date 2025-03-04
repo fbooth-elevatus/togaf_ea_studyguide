@@ -59,6 +59,10 @@ To support your learning and certification preparation, consider the following:
  * [Practice Test](./Practice-Tests/Practice-Test-1.md)
 4. **Engage with the TOGAF Community** – Join online discussions and forums to share insights and ask questions.
 
+## Applying TOGAF 
+
+![TOGAF Applied](./images/TOGAF-TOGAF.drawio.png)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions, corrections, or additional study materials to share, feel free to submit a pull request or open an issue.
