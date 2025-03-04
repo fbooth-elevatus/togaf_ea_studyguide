@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16" pages="10">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16" pages="11">
   <diagram name="TOGAF" id="OLtwp2suYtCRtV73h79h">
-    <mxGraphModel dx="1434" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,7 +146,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="G_VOh2-MrhyjiX7tru7r" name="The ADM">
-    <mxGraphModel dx="2332" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2524" dy="2007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1456,6 +1456,53 @@
         </mxCell>
         <mxCell id="umDFj5CI0NfoAVewyj_q-22" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Principles&lt;/h1&gt;&lt;p&gt;Understandable, Robust, Complete, Consistent, Stable&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="-100" width="310" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="10IFU1QXTKyPVuQiisW2" name="Preliminary">
+    <mxGraphModel dx="632" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-1" value="" style="group;fillColor=#CCFFFF;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1210" y="-990" width="1500" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-2" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;Preliminary&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1">
+          <mxGeometry width="1500" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1" source="ZSR_Ag6GTGwDEeoLhIKo-4" target="ZSR_Ag6GTGwDEeoLhIKo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Objectives&lt;/h1&gt;&lt;p&gt;Determine the Architectural Capability desired by the organization.&lt;/p&gt;&lt;p&gt;Establish the Architecture Capability&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1">
+          <mxGeometry x="30" y="80" width="300" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1" source="ZSR_Ag6GTGwDEeoLhIKo-6" target="ZSR_Ag6GTGwDEeoLhIKo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Inputs&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;TOGAF Library&lt;/li&gt;&lt;li&gt;Other Architecture Frameworks&lt;/li&gt;&lt;li&gt;Board strategies &amp;amp; business plans, principals, goals / objectives - pre-existing&lt;/li&gt;&lt;li&gt;Major frameworks operating in the business&lt;/li&gt;&lt;li&gt;Governance and legal frameworks&lt;/li&gt;&lt;li&gt;Architecture Capability&lt;/li&gt;&lt;li&gt;Partnership and contact agreements&lt;/li&gt;&lt;li&gt;Organizational Model for EA&lt;/li&gt;&lt;li&gt;Existing Architecture Framework&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1">
+          <mxGeometry x="30" y="250" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1" source="ZSR_Ag6GTGwDEeoLhIKo-8" target="ZSR_Ag6GTGwDEeoLhIKo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Steps&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Scope the enterprise organizations impacted.&lt;/li&gt;&lt;li&gt;Confirm governance and support frameworks.&lt;/li&gt;&lt;li&gt;Define and establish EA team and organization.&lt;/li&gt;&lt;li&gt;Identify and establish Architecture Principles.&lt;/li&gt;&lt;li&gt;Tailor the TOGAF framework&lt;/li&gt;&lt;li&gt;Develop a strategy and implementation plan for tools and techniques.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1">
+          <mxGeometry x="410" y="160" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1" source="ZSR_Ag6GTGwDEeoLhIKo-10" target="ZSR_Ag6GTGwDEeoLhIKo-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Outputs&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Organizational Model for EA&lt;/li&gt;&lt;li&gt;&lt;b&gt;Tailored Architecture Framework&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Initial Architecture Repository populated with framework content&lt;/li&gt;&lt;li&gt;Restatement of or reference to business principals, goals, drivers&lt;/li&gt;&lt;li&gt;&lt;b&gt;Request for Architecture Work&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Architecture Governance Framework&lt;/li&gt;&lt;li&gt;The Architecture of the EA Capability&lt;/li&gt;&lt;li&gt;Catalogs&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1">
+          <mxGeometry x="770" y="160" width="300" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ZSR_Ag6GTGwDEeoLhIKo-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Artifacts Produced&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Catalogs: Principles&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="ZSR_Ag6GTGwDEeoLhIKo-1">
+          <mxGeometry x="1150" y="220.5" width="300" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="9nOybFK2jawgrXP-kFxE-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9nOybFK2jawgrXP-kFxE-1" target="ZSR_Ag6GTGwDEeoLhIKo-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9nOybFK2jawgrXP-kFxE-1" value="Preliminary" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="880" y="-830" width="230" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -6,6 +6,10 @@ The **Architecture Development Method (ADM)** is the core of the **TOGAF framewo
 
 ---
 
+![The ADM Detailed](../images/TOGAF-Architectural%20Context.drawio.png)
+
+---
+
 ## ADM Phases and Descriptions
 
 The TOGAF ADM consists of **ten phases**, each with a specific focus on enterprise architecture development.
