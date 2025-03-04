@@ -54,7 +54,9 @@ To support your learning and certification preparation, consider the following:
 
 1. **Review the ADM Phase Summaries** – Understand the purpose, inputs, steps, and outputs of each phase in `ADM/`.
 2. **Use the Templates** – Apply the provided templates to structure your own EA documents.
-3. **Test Your Knowledge** – Work through the sample questions in `Practice_Test.md`.
+3. **Test Your Knowledge** – Work through the sample questions with:
+ * [Docker interactive quiz](./Practice-Tests/README.md) 
+ * [Practice Test](./Practice-Tests/Practice-Test-1.md)
 4. **Engage with the TOGAF Community** – Join online discussions and forums to share insights and ask questions.
 
 ## Contributing
