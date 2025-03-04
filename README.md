@@ -2,7 +2,7 @@
 
 ## **What is TOGAF?**
 
-TOGAF (The Open Group Architecture Framework) is a globally recognized framework for designing, planning, implementing, and governing enterprise architectures. It helps organizations **align business goals with IT strategy**, ensuring that technology investments support business growth, efficiency, and innovation.
+[TOGAF (The Open Group Architecture Framework)](https://www.opengroup.org/togaf) is a globally recognized framework for designing, planning, implementing, and governing enterprise architectures. It helps organizations **align business goals with IT strategy**, ensuring that technology investments support business growth, efficiency, and innovation.
 
 Think of TOGAF as a **blueprint for building a strong company**—just like an architect designs a building, enterprise architects use TOGAF to structure IT and business processes in a scalable, efficient way.
 
