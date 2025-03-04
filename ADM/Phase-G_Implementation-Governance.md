@@ -4,6 +4,10 @@
 
 The **Implementation Governance** phase ensures that enterprise architecture is implemented **effectively, consistently, and in alignment with business goals**. This phase **monitors**, **guides**, and **assesses** the execution of projects to ensure adherence to the established architecture framework, industry standards, and organizational objectives.
 
+---
+![Phase G: Implementation Governance](../images/TOGAF-Phase%20G%20-%20Architecture%20Governance.drawio.png)
+---
+
 ## Objectives
 
 - **Ensure Compliance** – Validate that implementation projects conform to the **approved architecture, policies, and standards**.

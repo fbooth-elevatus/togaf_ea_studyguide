@@ -4,6 +4,10 @@
 
 The **Architecture Change Management** phase ensures that enterprise architecture remains **adaptive, relevant, and aligned with business and technology evolution**. This phase establishes a structured process for monitoring, evaluating, and managing changes to **prevent architecture drift and maintain long-term sustainability**.
 
+---
+![Phase H: Architecture Change Management](../images/TOGAF-Phase%20H%20-%20Architecture%20Change%20Management.drawio.png)
+---
+
 ## Objectives
 
 - **Ensure Architecture Adaptability** – Enable continuous improvement to align with **business strategy, regulatory changes, and emerging technologies**.

@@ -3,9 +3,11 @@
 ## Purpose
 
 The Preliminary Phase is the foundation for establishing an **Enterprise Architecture (EA) capability** within an organization. This phase defines the overall architecture framework, governance structures, and principles that guide the EA practice. It ensures that architecture efforts are aligned with business objectives and regulatory requirements while setting up the necessary organizational support for long-term success.
+
 ---
 ![Preliminary Phase](../images/TOGAF-Preliminary.drawio.png)
 ---
+
 ## Objectives
 
 - **Define the Scope of Enterprise Architecture**

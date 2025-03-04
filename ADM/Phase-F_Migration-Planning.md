@@ -4,6 +4,10 @@
 
 The **Migration Planning** phase ensures that the transition from the **current (baseline) architecture** to the **future (target) architecture** is well-structured, cost-effective, and aligned with business priorities. It establishes a **detailed implementation roadmap**, ensuring that technology and process changes are rolled out **in a controlled manner with minimal disruption**.
 
+---
+![Phase F: Migration Planning](../images/TOGAF-Phase%20F%20-%20Migration%20Planning.drawio.png)
+---
+
 ## Objectives
 
 - **Prioritize Implementation Projects** – Rank projects based on **business impact, cost, dependencies, and risk**.

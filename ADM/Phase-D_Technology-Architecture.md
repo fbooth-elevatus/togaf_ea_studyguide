@@ -4,6 +4,10 @@
 
 The **Technology Architecture** phase defines the **hardware, software, and network infrastructure** required to support an organization's business processes, data management, and application services. This phase ensures that technology solutions align with the overall enterprise architecture and provide a **scalable, secure, and efficient** foundation for IT operations.
 
+---
+![Phase D: echnology Architecture](../images/TOGAF-Phase%20D%20-%20Technology%20Architecture.drawio.png)
+---
+
 ## Objectives
 
 - **Develop the Target Technology Architecture** – Define the ideal **hardware, software, cloud, and network infrastructure** to support business and IT goals.
