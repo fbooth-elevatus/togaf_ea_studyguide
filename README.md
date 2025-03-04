@@ -71,3 +71,4 @@ This guide is intended to supplement your study for the TOGAF certification exam
    git clone https://github.com/fbooth-elevatus/togaf_ea_studyguide.git
    
 Copyright (c) 2025 Francis Booth, Elevatus Consulting LLC [fbooth-elevatus]
+[MIT License](LICENSE)
