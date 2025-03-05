@@ -10,6 +10,37 @@ The **Architecture Development Method (ADM)** is the core of the **TOGAF framewo
 
 ---
 
+---
+
+![Mnemonic for ADM](../images/TOGAF-Memorizing%20the%20ADM.drawio.png)
+
+# **Mnemonic for TOGAF ADM Phases**
+
+A mnemonic can help you easily recall the **TOGAF ADM Phases** in order.
+
+## **Memorizing TOGAF ADM Phases (In Order)**
+
+| **Phase** | **Abbreviation** |
+|-----------|-----------------|
+| **Preliminary** | P |
+| **Phase A - Architecture Vision** | A |
+| **Phase B - Business Architecture** | B |
+| **Phase C - Information Systems Architecture** | I |
+| **Phase D - Technology Architecture** | T |
+| **Phase E - Opportunities & Solutions** | O |
+| **Phase F - Migration Planning** | M |
+| **Phase G - Implementation Governance** | G |
+| **Phase H - Architecture Change Management** | C |
+
+## **Memorable ADM Mnemonics**
+To help remember the sequence, try these easy-to-recall phrases:
+
+🔹 **"Pandas Always Bring Cold Drinks Even For Good Health"**
+
+🔹 **"Poor Andy Bought Cold Drinks Even For Good 'Ole Harvey"**
+
+---
+
 ## ADM Phases and Descriptions
 
 The TOGAF ADM consists of **ten phases**, each with a specific focus on enterprise architecture development.
