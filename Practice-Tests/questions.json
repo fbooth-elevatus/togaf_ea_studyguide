@@ -1,5 +1,445 @@
 [
     {
+        "question": "Which phase of the ADM primarily emphasizes overseeing the implementation of the architecture projects to ensure they are executed in alignment with the defined architecture?",
+        "options": [
+            "Phase F",
+            "Phase E",
+            "Phase H",
+            "Phase G"
+        ],
+        "answer": 3,
+        "explanation": "In TOGAF 10, Phase G (Implementation Governance) focuses on providing architectural oversight during implementation, ensuring compliance with the defined architecture and handling deviations appropriately."
+    },
+    {
+        "question": "According to the TOGAF 10 Standard, which of the following is a description of the future state of the architecture being developed for an organization?",
+        "options": [
+            "Target Architecture",
+            "Baseline Architecture",
+            "Architecture Landscape",
+            "Architecture Repository"
+        ],
+        "answer": 0,
+        "explanation": "In TOGAF 10, the Target Architecture describes the desired future state of the architecture, contrasting with the Baseline Architecture (current state), and is used to identify gaps and create a roadmap."
+    },
+    {
+        "question": "What is the primary objective of conducting a Business Transformation Readiness Assessment in the TOGAF framework?",
+        "options": [
+            "To understand the organization’s readiness to undergo change and identify potential barriers to transformation.",
+            "To determine the architecture team readiness to manage a business transformation.",
+            "To evaluate the organization’s willingness to adopt new technologies.",
+            "To assess the performance of the current business processes."
+        ],
+        "answer": 0,
+        "explanation": "The Business Transformation Readiness Assessment gauges the organization's preparedness for change and identifies obstacles that might hinder the transformation process."
+    },
+    {
+        "question": "In the Architecture Capability Framework, which component provides a structured method for storing and leveraging architecture-related assets?",
+        "options": [
+            "Enterprise Continuum",
+            "Architecture Landscape",
+            "Architecture Governance",
+            "Architecture Repository"
+        ],
+        "answer": 3,
+        "explanation": "The Architecture Repository offers a consistent, structured way to store, manage, and utilize architecture-related assets within the Architecture Capability Framework."
+    },
+    {
+        "question": "Which ADM phase(s) does this describe? Output & Outcome: A deliverable container for the core architectural artifacts created during a project and for important related information. Input: Technology principles",
+        "options": [
+            "Phases B, C and D",
+            "Phase C",
+            "Phase D",
+            "Phase B"
+        ],
+        "answer": 2,
+        "explanation": "Phase D (Technology Architecture) uses technology principles as input to build the Architecture Definition Document, which serves as a deliverable container for core architectural artifacts."
+    },
+    {
+        "question": "What is the primary role of Architecture Governance in TOGAF?",
+        "options": [
+            "To ensure that architecture assets are stored properly.",
+            "To provide a set of software tools for architects",
+            "To provide a framework for managing and controlling architecture work.",
+            "To oversee the implementation of architectures"
+        ],
+        "answer": 2,
+        "explanation": "Architecture Governance in TOGAF provides a structure for overseeing, guiding, and controlling architecture activities and projects to ensure alignment with organizational goals."
+    },
+    {
+        "question": "Which of the following best describes the relationship between the Preliminary Phase and the Architecture Repository?",
+        "options": [
+            "The Preliminary Phase has no interaction with the Architecture Repository.",
+            "The Preliminary Phase reviews and leverages existing content in the Architecture Repository.",
+            "The Preliminary Phase creates the Architecture Repository from scratch.",
+            "The Preliminary Phase uses the Architecture Repository to store new artifacts only."
+        ],
+        "answer": 1,
+        "explanation": "The Preliminary Phase leverages existing content in the Architecture Repository, ensuring previous architectural work informs new initiatives, rather than creating it from scratch."
+    },
+    {
+        "question": "According to the TOGAF 10 Standard, which of the following best describes the Enterprise Continuum?",
+        "options": [
+            "A classification scheme for architecture assets.",
+            "A set of predefined architecture patterns.",
+            "A repository for storing architecture artifacts.",
+            "A lifecycle method for developing architectures."
+        ],
+        "answer": 0,
+        "explanation": "The Enterprise Continuum in TOGAF 10 is a classification scheme for categorizing architecture and solution assets, aiding in their development and understanding across the organization."
+    },
+    {
+        "question": "What is the primary purpose of the Architecture Development Method (ADM)?",
+        "options": [
+            "To manage databases",
+            "To develop software applications",
+            "To design network infrastructures",
+            "To develop architectures"
+        ],
+        "answer": 3,
+        "explanation": "The ADM provides a tested, repeatable process for developing architectures, ensuring they meet organizational needs in a structured manner."
+    },
+    {
+        "question": "Which of the following best describes the granularity of building blocks in TOGAF?",
+        "options": [
+            "Building blocks always represent large system components.",
+            "The granularity of building blocks is defined by the architectural patterns they fit into.",
+            "Building blocks always represent small, detailed system components.",
+            "The granularity of building blocks can vary, representing both high-level and detailed components."
+        ],
+        "answer": 3,
+        "explanation": "In TOGAF, building blocks vary in granularity, representing both high-level and detailed components, allowing flexibility across abstraction levels."
+    },
+    {
+        "question": "The Solutions Continuum in TOGAF primarily focuses on:",
+        "options": [
+            "Detailed solution plannings.",
+            "Abstract architectural patterns.",
+            "Theoretical architectural concepts.",
+            "Specific organizational solutions and configurations."
+        ],
+        "answer": 3,
+        "explanation": "The Solutions Continuum focuses on realizing architectures through specific organizational solutions and configurations."
+    },
+    {
+        "question": "Which of the following is an external source of architectural input in the TOGAF framework?",
+        "options": [
+            "Business principles",
+            "Non-architectural documents",
+            "Organizational strategy",
+            "Governance models"
+        ],
+        "answer": 1,
+        "explanation": "Non-architectural documents (e.g., market studies, regulatory standards) provide valuable external input to the architectural process in TOGAF."
+    },
+    {
+        "question": "Which of the following best describes the relationship between a view and a viewpoint in TOGAF?",
+        "options": [
+            "A view and a viewpoint are synonymous terms in TOGAF.",
+            "A view is a representation of the entire system, while a viewpoint is a subset of that representation.",
+            "A viewpoint is a visual representation, while a view is a detailed listing.",
+            "A viewpoint defines the perspective, and a view is the representation of the system from that perspective."
+        ],
+        "answer": 3,
+        "explanation": "In TOGAF, a viewpoint defines the perspective, and a view is the representation of the system from that perspective, addressing stakeholder concerns."
+    },
+    {
+        "question": "In which phase of the ADM is the 'Draft Architecture Definition Document' created, which may include draft baseline and target architectures?",
+        "options": [
+            "Phase A",
+            "Phase C",
+            "Preliminary Phase",
+            "Phase B"
+        ],
+        "answer": 0,
+        "explanation": "In Phase A (Architecture Vision), the Draft Architecture Definition Document is created, capturing initial baseline and target architectures as part of the high-level vision."
+    },
+    {
+        "question": "Which component of the Architecture Capability Framework aids organizations in understanding their current architecture capabilities and areas for improvement?",
+        "options": [
+            "Architecture Vision",
+            "Architecture Skills Framework",
+            "Architecture Maturity Models",
+            "Architecture Governance"
+        ],
+        "answer": 2,
+        "explanation": "Architecture Maturity Models assess and measure an organization’s architecture discipline, highlighting current capabilities and areas for improvement."
+    },
+    {
+        "question": "In the context of TOGAF, where would you typically store organization-specific architectures and solutions?",
+        "options": [
+            "Reference Library",
+            "Standards Information Base",
+            "Foundation Architectures",
+            "Architecture Landscape"
+        ],
+        "answer": 3,
+        "explanation": "The Architecture Landscape, part of the Architecture Repository, stores organization-specific architectures and solutions."
+    },
+    {
+        "question": "Why is the establishment of an Architecture Capability Framework crucial for organizations?",
+        "options": [
+            "To provide a consistent way to describe and consider existing architectural assets.",
+            "To list all the stakeholders involved in the architecture.",
+            "To ensure every architectural decision is specific to the needs of current projects.",
+            "To ensure that the architecture function operates effectively and meets business needs."
+        ],
+        "answer": 3,
+        "explanation": "The Architecture Capability Framework ensures the architecture function operates effectively and aligns with business needs, supporting long-term success."
+    },
+    {
+        "question": "Which phase of the ADM is primarily concerned with creating detailed plans to guide the implementation of the Target Architecture?",
+        "options": [
+            "Phase H",
+            "Phase E",
+            "Phase G",
+            "Phase F"
+        ],
+        "answer": 3,
+        "explanation": "Phase F (Migration Planning) focuses on creating detailed plans, including projects and timelines, to guide the implementation of the Target Architecture."
+    },
+    {
+        "question": "What is the primary purpose of the Enterprise Continuum in TOGAF?",
+        "options": [
+            "To provide a consistent architecture landscape encompassing suppliers, the enterprise, and customers.",
+            "To offer a structured way to classifying architectural and solution artifacts.",
+            "To dictate specific technologies to be used in the architecture.",
+            "To provide a linear sequence for architectural development."
+        ],
+        "answer": 1,
+        "explanation": "The Enterprise Continuum offers a structured way to classify architectural and solution artifacts, from generic to organization-specific."
+    },
+    {
+        "question": "Which of the following is a key component of the Architecture Capability Framework?",
+        "options": [
+            "Architecture Repository Details",
+            "Architecture Governance",
+            "Architecture Software Tools",
+            "Architecture Development Method"
+        ],
+        "answer": 1,
+        "explanation": "Architecture Governance is a key component of the Architecture Capability Framework, ensuring consistent management and development of architectures."
+    },
+    {
+        "question": "Why is it crucial in TOGAF's framework to assess stakeholder commitment during a Business Transformation Readiness Assessment?",
+        "options": [
+            "To gauge the likelihood of successful transformation, as stakeholder buy-in is critical for driving and sustaining change.",
+            "Because stakeholders are responsible for the overall funding of the transformation.",
+            "Because stakeholders are the only ones who can approve the transformation.",
+            "To ensure that stakeholder’s technological preferences are incorporated."
+        ],
+        "answer": 0,
+        "explanation": "Assessing stakeholder commitment gauges transformation success likelihood, as their buy-in drives and sustains change, critical for effective transformation."
+    },
+    {
+        "question": "According to the TOGAF 10 Standard, when going through the ADM and performing a Gap Analysis, what is a 'gap'?",
+        "options": [
+            "An architectural decision that hasn’t been approved by stakeholders.",
+            "A difference between the baseline and target architectures.",
+            "The lack of alignment between the business and IT strategies.",
+            "A missing software tool or application within the enterprise’s IT landscape."
+        ],
+        "answer": 1,
+        "explanation": "In TOGAF 10, a 'gap' in Gap Analysis is a difference between the Baseline (current) and Target (future) architectures, identifying changes needed."
+    },
+    {
+        "question": "What is the main goal of the Architecture Governance in TOGAF?",
+        "options": [
+            "To ensure the architecture serves its major stakeholders.",
+            "To manage the company’s stock and shares.",
+            "To ensure the consistent design of systems.",
+            "To oversee the company’s financial transactions."
+        ],
+        "answer": 0,
+        "explanation": "Architecture Governance ensures the architecture addresses stakeholder needs, concerns, and values, aligning with business goals."
+    },
+    {
+        "question": "Which ADM phase(s) does this describe? Output & Outcome: Work package description, Implementation and Migration strategy. Input: Analysis of differences between the Baseline and Target Architectures",
+        "options": [
+            "Phase E",
+            "Phase F",
+            "Phase D",
+            "Phase C"
+        ],
+        "answer": 0,
+        "explanation": "Phase E (Opportunities and Solutions) formulates initial implementation plans and migration strategies using gap analysis results, defining work packages."
+    },
+    {
+        "question": "In TOGAF, what distinguishes a foundational building block from a common building block?",
+        "options": [
+            "Common building blocks are typically more abstract than foundational building blocks.",
+            "Foundational building blocks are larger in scale than common building blocks.",
+            "Foundational building blocks are specific to an organization, while common building blocks are industry standards.",
+            "Foundational building blocks are generic and based in industry standards, while common building blocks are specific and adapted to an organization."
+        ],
+        "answer": 3,
+        "explanation": "Foundational building blocks are generic and industry-standard, while common building blocks are specific and tailored to an organization."
+    },
+    {
+        "question": "In the Preliminary Phase, which of the following is NOT a typical output?",
+        "options": [
+            "Organizational Model for Enterprise Architecture",
+            "High-level system design",
+            "Tailored Architecture Framework",
+            "Initial Architecture Repository content"
+        ],
+        "answer": 1,
+        "explanation": "The Preliminary Phase focuses on organizational models and frameworks, not high-level system design, which occurs in later phases."
+    },
+    {
+        "question": "Which of the following is NOT typically considered an architectural artifact in TOGAF?",
+        "options": [
+            "Diagram",
+            "Matrix",
+            "Catalog",
+            "User manual"
+        ],
+        "answer": 3,
+        "explanation": "User manuals are not typically architectural artifacts in TOGAF, unlike diagrams, matrices, and catalogs."
+    },
+    {
+        "question": "Which of the following is NOT a primary focus of the Architecture Capability Framework?",
+        "options": [
+            "Establishing an architecture practice.",
+            "Using the architecture to achieve business goals.",
+            "Procuring IT tools.",
+            "Ensuring that the architecture function operates effectively."
+        ],
+        "answer": 2,
+        "explanation": "Procuring IT tools is not a primary focus of the Architecture Capability Framework, which emphasizes practice establishment and effectiveness."
+    },
+    {
+        "question": "In the context of TOGAF, the Architecture Contract primarily serves to:",
+        "options": [
+            "Define the responsibilities and expectations between stakeholders and architects.",
+            "Provide a set of software tools for architects.",
+            "Offer a repository for storing architectural artifacts.",
+            "Establish an agreement between a solution editor and the architecture team."
+        ],
+        "answer": 0,
+        "explanation": "The Architecture Contract defines responsibilities and expectations between stakeholders and architects, outlining agreements for architecture work."
+    },
+    {
+        "question": "Which of the following best describes the purpose of an Architecture Principle in TOGAF?",
+        "options": [
+            "It defines high-level rules and guidelines that govern enterprise architecture decision-making.",
+            "It serves as a document that outlines specific IT projects and their associated budgets.",
+            "It is a list of mandatory enterprise technology standards and vendor selections.",
+            "It provides detailed implementation guidelines for technology solutions in an organization."
+        ],
+        "answer": 0,
+        "explanation": "Architecture Principles define high-level rules and guidelines to govern enterprise architecture decision-making, ensuring consistency and alignment with business goals."
+    },
+    {
+        "question": "According to the TOGAF 10 Standard, which of the following describes one state of the architecture at an architecturally significant point in time?",
+        "options": [
+            "Architecture Vision",
+            "Target Architecture",
+            "Transition Architecture",
+            "Baseline Architecture"
+        ],
+        "answer": 2,
+        "explanation": "Transition Architecture describes an interim, significant state during the progression from Baseline to Target Architecture in TOGAF 10."
+    },
+    {
+        "question": "Which aspect of the Architecture Requirements Management phase emphasizes its iterative nature within the ADM cycle?",
+        "options": [
+            "Its periodic updates at the end of the ADM cycle.",
+            "Its continuous interaction with all other ADM phases.",
+            "Its operation only at the beginning of the ADM cycle.",
+            "Its focus solely on the Requirements Management Database."
+        ],
+        "answer": 1,
+        "explanation": "The Architecture Requirements Management phase is iterative due to its continuous interaction with all ADM phases, ensuring ongoing requirements alignment."
+    },
+    {
+        "question": "Which phase of the ADM primarily concentrates on formulating the implementation and migration strategies, encompassing the transition from the Baseline to the Target Architectures?",
+        "options": [
+            "Phase F",
+            "Phase D",
+            "Phase E",
+            "Phase C"
+        ],
+        "answer": 2,
+        "explanation": "Phase E (Opportunities and Solutions) focuses on formulating implementation and migration strategies, identifying projects to transition from Baseline to Target Architectures."
+    },
+    {
+        "question": "In which phase of the ADM might you find an 'Application Use-Case Diagram' as possibly one of the artifacts created?",
+        "options": [
+            "Phase C",
+            "Phase D",
+            "Phase B",
+            "Phase A"
+        ],
+        "answer": 0,
+        "explanation": "Phase C (Application Architecture) involves creating artifacts like an Application Use-Case Diagram to define application interactions."
+    },
+    {
+        "question": "What does the Architecture Repository store in TOGAF?",
+        "options": [
+            "Neither the current nor future states of the architecture.",
+            "Only the current state of the architecture.",
+            "Both the current and future states of the architecture.",
+            "Only the future state of the architecture."
+        ],
+        "answer": 2,
+        "explanation": "The Architecture Repository stores both current (Baseline) and future (Target) states of the architecture throughout the ADM."
+    },
+    {
+        "question": "Consider the following ADM phases objectives: 1- Perform appropriate Architecture Governance functions for the solution and any implementation-driven architecture Change Requests, 2- Ensure that the business value and cost of work packages and Transition Architectures is understood by key stakeholders, 3- Define the overall Solution Building Blocks (SBBs) to finalize the Target Architecture based on the ABBs, 4- Identify candidate Architecture Roadmap components based upon gaps between the Baseline and Target Technology Architectures. Which phase does each objective match?",
+        "options": [
+            "1G – 2F – 3E – 4D",
+            "1G – 2H – 3E – 4D",
+            "1F – 2F – 3E – 4D",
+            "1G – 2E – 3E – 4D"
+        ],
+        "answer": 0,
+        "explanation": "1 matches Phase G (governance), 2 matches Phase F (value and cost), 3 matches Phase E (SBBs), 4 matches Phase D (roadmap components), making 1G-2F-3E-4D correct."
+    },
+    {
+        "question": "In which phase of the ADM might you find a 'Product Lifecycle Diagram' as possibly one of the artifacts created?",
+        "options": [
+            "Phase B",
+            "Preliminary Phase",
+            "Phase C",
+            "Phase A"
+        ],
+        "answer": 0,
+        "explanation": "Phase B (Business Architecture) focuses on business processes and strategies, making a Product Lifecycle Diagram a relevant artifact."
+    },
+    {
+        "question": "Why are views and viewpoints essential in the context of TOGAF's architectural artifacts?",
+        "options": [
+            "They provide a set of software tools for architects.",
+            "They store and manage architecture artifacts.",
+            "They list all the stakeholders involved in the architecture.",
+            "They ensure that the architecture is presented in a way that addresses specific stakeholder concerns."
+        ],
+        "answer": 3,
+        "explanation": "Views and viewpoints ensure the architecture is presented to address specific stakeholder concerns, enhancing clarity and understanding."
+    },
+    {
+        "question": "According to the TOGAF 10 Standard, which of the following best describes an enterprise?",
+        "options": [
+            "A large multinational corporation with thousands of employees.",
+            "A formal structure with a primary goal of producing profits for its shareholders.",
+            "Any collection of organizations that share a common set of goals.",
+            "A technological infrastructure that supports business operations."
+        ],
+        "answer": 2,
+        "explanation": "In TOGAF 10, an enterprise is any collection of organizations sharing common goals, not limited by size or profit focus."
+    },
+    {
+        "question": "Which of the following best describes the iterative nature of the ADM?",
+        "options": [
+            "Each phase is executed once and in sequence.",
+            "Phases can be revisited as required.",
+            "Only the Preliminary Phase can be repeated.",
+            "The ADM is a linear process without iterations."
+        ],
+        "answer": 1,
+        "explanation": "The ADM is iterative, allowing phases to be revisited as required for flexibility and adaptability in architecture development."
+    },
+    {
         "question": "Which of the following best completes the next sentence: The Enterprise Continuum aids communication _______",
         "options": [
             "Within enterprises",
