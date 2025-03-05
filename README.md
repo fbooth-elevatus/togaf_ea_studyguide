@@ -16,6 +16,10 @@ TOGAF is widely adopted by **large enterprises, governments, and organizations**
 
 Welcome to the **TOGAF EA Study Guide** repository! This project is designed to help you prepare for the **TOGAF Enterprise Architecture Part 1 Exam** and provide practical tools for Enterprise Architecture (EA) projects using the TOGAF framework.
 
+## Special Thanks
+- **Marco Fernández del Pomar**'s Udemy Course - [Training for TOGAF Enterprise Architecture Foundation Part 1](https://www.udemy.com/course/togaf-10-enterprise-architecture-foundation-part-1-exam) - Excellent and easy to understand Udemy course on TOGAF and applying the framework.  I highly recommend.
+- **The Open Group** - [The TOGAF® Standard, 10th Edition](https://www.opengroup.org/togaf/10thedition)
+
 ## Purpose
 - **Exam Preparation:** Study resources including summaries of the Architecture Development Method (ADM) phases and a practice test.
 - **Practical Application:** Reusable Markdown templates for creating EA deliverables aligned with TOGAF phases.
