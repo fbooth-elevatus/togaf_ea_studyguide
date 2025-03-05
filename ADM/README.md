@@ -37,7 +37,7 @@ To help remember the sequence, try these easy-to-recall phrases:
 
 🔹 **"Pandas Always Bring Cold Drinks Even For Good Health"**
 
-🔹 **"Poor Andy Bought Cold Drinks Even For Good 'Ole Harvey"**
+🔹 **"Poor Andy Bought Cold Drinks Even For Greedy Harvey"**
 
 ---
 
