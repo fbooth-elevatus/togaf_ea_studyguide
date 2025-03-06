@@ -35,9 +35,7 @@ A mnemonic can help you easily recall the **TOGAF ADM Phases** in order.
 ## **Memorable ADM Mnemonics**
 To help remember the sequence, try these easy-to-recall phrases:
 
-🔹 **"Pandas Always Bring Cold Drinks Even For Good Health"**
-
-🔹 **"Poor Andy Bought Cold Drinks Even For Greedy Harvey"**
+🔹 **"Poor Andy Bought Ice Tea On My Green Card"**
 
 ---
 
