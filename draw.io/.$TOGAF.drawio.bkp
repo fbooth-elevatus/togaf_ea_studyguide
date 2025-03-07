@@ -2014,7 +2014,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="smPqGQ7acpAkWkzsyqaZ" name="Memorizing the ADM">
-    <mxGraphModel dx="2092" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2284" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2140,7 +2140,7 @@
             <mxPoint x="230" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XO2P9jvRxHvNhw9MWZR4-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MNEMONIC FOR ADM&lt;/h1&gt;&lt;p&gt;A &lt;strong data-end=&quot;14&quot; data-start=&quot;2&quot;&gt;mnemonic&lt;/strong&gt; can help you &lt;strong data-end=&quot;45&quot; data-start=&quot;28&quot;&gt;easily recall&lt;/strong&gt; the &lt;strong data-end=&quot;70&quot; data-start=&quot;50&quot;&gt;TOGAF ADM Phases&lt;/strong&gt; in order.&amp;nbsp;&lt;/p&gt;&lt;h3 data-end=&quot;123&quot; data-start=&quot;86&quot;&gt;&lt;strong data-end=&quot;121&quot; data-start=&quot;90&quot;&gt;TOGAF ADM Phases (In Order)&lt;/strong&gt;&lt;/h3&gt;&lt;ol data-end=&quot;453&quot; data-start=&quot;124&quot;&gt;&lt;li data-end=&quot;148&quot; data-start=&quot;124&quot;&gt;&lt;strong data-end=&quot;132&quot; data-start=&quot;127&quot;&gt;P&lt;/strong&gt; – Preliminary&lt;/li&gt;&lt;li data-end=&quot;181&quot; data-start=&quot;149&quot;&gt;&lt;strong data-end=&quot;157&quot; data-start=&quot;152&quot;&gt;A&lt;/strong&gt; – Architecture Vision&lt;/li&gt;&lt;li data-end=&quot;216&quot; data-start=&quot;182&quot;&gt;&lt;strong data-end=&quot;190&quot; data-start=&quot;185&quot;&gt;B&lt;/strong&gt; – Business Architecture&lt;/li&gt;&lt;li data-end=&quot;262&quot; data-start=&quot;217&quot;&gt;&lt;strong data-end=&quot;225&quot; data-start=&quot;220&quot;&gt;I&lt;/strong&gt; – Information Systems Architecture&lt;/li&gt;&lt;li data-end=&quot;299&quot; data-start=&quot;263&quot;&gt;&lt;strong data-end=&quot;271&quot; data-start=&quot;266&quot;&gt;T&lt;/strong&gt; – Technology Architecture&lt;/li&gt;&lt;li data-end=&quot;338&quot; data-start=&quot;300&quot;&gt;&lt;strong data-end=&quot;308&quot; data-start=&quot;303&quot;&gt;O&lt;/strong&gt; – Opportunities &amp;amp; Solutions&lt;/li&gt;&lt;li data-end=&quot;370&quot; data-start=&quot;339&quot;&gt;&lt;strong data-end=&quot;347&quot; data-start=&quot;342&quot;&gt;M&lt;/strong&gt; – Migration Planning&lt;/li&gt;&lt;li data-end=&quot;409&quot; data-start=&quot;371&quot;&gt;&lt;strong data-end=&quot;379&quot; data-start=&quot;374&quot;&gt;G&lt;/strong&gt; – Implementation Governance&lt;/li&gt;&lt;li data-end=&quot;453&quot; data-start=&quot;410&quot;&gt;&lt;strong data-end=&quot;418&quot; data-start=&quot;413&quot;&gt;C&lt;/strong&gt; – Architecture Change Management&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Here’s a simple and memorable one:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;🔹 &lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1175&quot; data-start=&quot;1117&quot;&gt;&quot;Pandas Always Bring Cold Drinks Even For Good Health&quot;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1175&quot; data-start=&quot;1117&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1175&quot; data-start=&quot;1117&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400; background-color: transparent;&quot;&gt;🔹&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot; data-end=&quot;1175&quot; data-start=&quot;1117&quot;&gt;&quot;Poor Andy Bought Cold Drinks Even For Good&#39;Ole Harvey&quot;&lt;/strong&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XO2P9jvRxHvNhw9MWZR4-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MNEMONIC FOR ADM&lt;/h1&gt;&lt;p&gt;A &lt;strong data-end=&quot;14&quot; data-start=&quot;2&quot;&gt;mnemonic&lt;/strong&gt; can help you &lt;strong data-end=&quot;45&quot; data-start=&quot;28&quot;&gt;easily recall&lt;/strong&gt; the &lt;strong data-end=&quot;70&quot; data-start=&quot;50&quot;&gt;TOGAF ADM Phases&lt;/strong&gt; in order.&amp;nbsp;&lt;/p&gt;&lt;h3 data-end=&quot;123&quot; data-start=&quot;86&quot;&gt;&lt;strong data-end=&quot;121&quot; data-start=&quot;90&quot;&gt;TOGAF ADM Phases (In Order)&lt;/strong&gt;&lt;/h3&gt;&lt;ol data-end=&quot;453&quot; data-start=&quot;124&quot;&gt;&lt;li data-end=&quot;148&quot; data-start=&quot;124&quot;&gt;&lt;strong data-end=&quot;132&quot; data-start=&quot;127&quot;&gt;P&lt;/strong&gt; – Preliminary&lt;/li&gt;&lt;li data-end=&quot;181&quot; data-start=&quot;149&quot;&gt;&lt;strong data-end=&quot;157&quot; data-start=&quot;152&quot;&gt;A&lt;/strong&gt; – Architecture Vision&lt;/li&gt;&lt;li data-end=&quot;216&quot; data-start=&quot;182&quot;&gt;&lt;strong data-end=&quot;190&quot; data-start=&quot;185&quot;&gt;B&lt;/strong&gt; – Business Architecture&lt;/li&gt;&lt;li data-end=&quot;262&quot; data-start=&quot;217&quot;&gt;&lt;strong data-end=&quot;225&quot; data-start=&quot;220&quot;&gt;I&lt;/strong&gt; – Information Systems Architecture&lt;/li&gt;&lt;li data-end=&quot;299&quot; data-start=&quot;263&quot;&gt;&lt;strong data-end=&quot;271&quot; data-start=&quot;266&quot;&gt;T&lt;/strong&gt; – Technology Architecture&lt;/li&gt;&lt;li data-end=&quot;338&quot; data-start=&quot;300&quot;&gt;&lt;strong data-end=&quot;308&quot; data-start=&quot;303&quot;&gt;O&lt;/strong&gt; – Opportunities &amp;amp; Solutions&lt;/li&gt;&lt;li data-end=&quot;370&quot; data-start=&quot;339&quot;&gt;&lt;strong data-end=&quot;347&quot; data-start=&quot;342&quot;&gt;M&lt;/strong&gt; – Migration Planning&lt;/li&gt;&lt;li data-end=&quot;409&quot; data-start=&quot;371&quot;&gt;&lt;strong data-end=&quot;379&quot; data-start=&quot;374&quot;&gt;G&lt;/strong&gt; – Implementation Governance&lt;/li&gt;&lt;li data-end=&quot;453&quot; data-start=&quot;410&quot;&gt;&lt;strong data-end=&quot;418&quot; data-start=&quot;413&quot;&gt;C&lt;/strong&gt; – Architecture Change Management&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;Here’s a simple and memorable one:&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;🔹 &lt;/span&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1175&quot; data-start=&quot;1117&quot;&gt;&quot;Pandas Always Bring Cold Drinks Even For Good Health&quot;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1175&quot; data-start=&quot;1117&quot;&gt;&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1175&quot; data-start=&quot;1117&quot;&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400; background-color: transparent;&quot;&gt;🔹&amp;nbsp;&lt;/span&gt;&lt;strong style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot; data-end=&quot;1175&quot; data-start=&quot;1117&quot;&gt;&quot;Poor Andy Bought Cold Drinks Even For Greedy Harvey&quot;&lt;/strong&gt;&lt;/strong&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="80" width="460" height="520" as="geometry" />
         </mxCell>
       </root>
@@ -2241,7 +2241,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="220" width="120" height="120" as="geometry" />
+          <mxGeometry x="240" y="220" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-28" value="&lt;div&gt;Reference Library&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-32">
           <mxGeometry width="120" height="120" as="geometry" />
@@ -2250,22 +2250,22 @@
           <mxGeometry x="15" y="40" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-33" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="380" width="130" height="190" as="geometry" />
+          <mxGeometry x="220" y="390" width="130" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-34" value="&lt;div&gt;Standards Information Base&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-33">
-          <mxGeometry width="120" height="190" as="geometry" />
+          <mxGeometry width="120" height="180" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-40" value="Business Standards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-33">
-          <mxGeometry x="10" y="50" width="100" height="30" as="geometry" />
+          <mxGeometry x="10" y="47.368421052631575" width="100" height="28.421052631578945" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-41" value="Data Standards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-33">
-          <mxGeometry x="10" y="80" width="100" height="30" as="geometry" />
+          <mxGeometry x="10" y="75.78947368421052" width="100" height="28.421052631578945" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-42" value="Application Standards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-33">
-          <mxGeometry x="10" y="110" width="100" height="30" as="geometry" />
+          <mxGeometry x="10" y="104.21052631578947" width="100" height="28.421052631578945" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-43" value="Technology Standards" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-33">
-          <mxGeometry x="10" y="140" width="100" height="30" as="geometry" />
+          <mxGeometry x="10" y="132.6315789473684" width="100" height="28.421052631578945" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-49" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-90" y="750" width="420" height="70" as="geometry" />
@@ -2317,6 +2317,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-1" value="Best Practice&lt;div&gt;creates&lt;/div&gt;&lt;div&gt;Reference Architecture&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-59">
+          <mxGeometry x="0.1576" y="2" relative="1" as="geometry">
+            <mxPoint x="-5" y="-18" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-28" target="AtZHnfBM-q3kS1blVrDh-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2325,17 +2330,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-2" value="Adopted by&amp;nbsp;&lt;div&gt;the Enterprise&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-60">
+          <mxGeometry x="0.0706" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-34" target="AtZHnfBM-q3kS1blVrDh-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-7" value="Standards have&amp;nbsp;&lt;div&gt;Reference Implementations&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-61">
+          <mxGeometry x="-0.0095" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-34" target="AtZHnfBM-q3kS1blVrDh-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-3" value="Standards are&amp;nbsp;&lt;div&gt;complied with&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-62">
+          <mxGeometry x="0.0277" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-17" target="AtZHnfBM-q3kS1blVrDh-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-4" value="Best Practice&lt;div&gt;creates Standards&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-63">
+          <mxGeometry x="0.1003" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-34" target="AtZHnfBM-q3kS1blVrDh-50">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-6" value="Compliance is Governed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-64">
+          <mxGeometry x="-0.1099" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-17" target="AtZHnfBM-q3kS1blVrDh-50">
           <mxGeometry relative="1" as="geometry">
@@ -2345,8 +2375,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-5" value="The landscape&amp;nbsp;&lt;div&gt;is Governed&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-65">
+          <mxGeometry x="-0.2057" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-50" target="AtZHnfBM-q3kS1blVrDh-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-11" value="Drivers for&amp;nbsp;&lt;div&gt;the enterprise&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-67">
+          <mxGeometry x="-0.0367" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-68" target="AtZHnfBM-q3kS1blVrDh-28">
           <mxGeometry relative="1" as="geometry" />
@@ -2357,25 +2397,40 @@
         <mxCell id="AtZHnfBM-q3kS1blVrDh-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-69" target="AtZHnfBM-q3kS1blVrDh-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-10" value="Standards&amp;nbsp;&lt;div&gt;adopted by&amp;nbsp;&lt;/div&gt;&lt;div&gt;the Enterprise&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-73">
+          <mxGeometry x="-0.083" relative="1" as="geometry">
+            <mxPoint y="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-69" value="External&amp;nbsp;&lt;div&gt;Standards&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="440" y="420" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-70" target="AtZHnfBM-q3kS1blVrDh-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-9" value="Visibility and&amp;nbsp;&lt;div&gt;escalation&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-71">
+          <mxGeometry x="0.0235" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-70" target="AtZHnfBM-q3kS1blVrDh-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-8" value="Architecture Board&lt;div&gt;steers and&amp;nbsp;&lt;/div&gt;&lt;div&gt;manages the capability&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AtZHnfBM-q3kS1blVrDh-72">
+          <mxGeometry x="0.01" relative="1" as="geometry">
+            <mxPoint x="15" y="35" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-70" value="Architecture&lt;div&gt;Board&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="440" y="632" width="120" height="110" as="geometry" />
+          <mxGeometry x="440" y="632" width="120" height="128" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="920" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="AtZHnfBM-q3kS1blVrDh-76" value="Enterprise Repositories&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;0-hn&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+        <mxCell id="AtZHnfBM-q3kS1blVrDh-76" value="Enterprise Repositories&lt;div&gt;(including Requirements Repository, Architectural Repository, Stores, CMDB)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="650" y="110" width="190" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="AtZHnfBM-q3kS1blVrDh-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="AtZHnfBM-q3kS1blVrDh-77" value="&lt;b&gt;Enterprise Continuum&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="900" y="110" width="610" height="690" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-80" target="AtZHnfBM-q3kS1blVrDh-78">
@@ -2408,7 +2463,7 @@
         <mxCell id="AtZHnfBM-q3kS1blVrDh-84" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="980" y="250" width="450" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="AtZHnfBM-q3kS1blVrDh-78" value="Architecture Continuum&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-84">
+        <mxCell id="AtZHnfBM-q3kS1blVrDh-78" value="&lt;b&gt;Architecture Continuum&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-84">
           <mxGeometry width="450" height="175" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-84">
@@ -2448,7 +2503,7 @@
         <mxCell id="AtZHnfBM-q3kS1blVrDh-85" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="980" y="460" width="450" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="AtZHnfBM-q3kS1blVrDh-79" value="Solutions Continuum&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-85">
+        <mxCell id="AtZHnfBM-q3kS1blVrDh-79" value="&lt;b&gt;Solutions Continuum&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-85">
           <mxGeometry width="450" height="175" as="geometry" />
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="AtZHnfBM-q3kS1blVrDh-85">
@@ -2511,6 +2566,34 @@
         </mxCell>
         <mxCell id="AtZHnfBM-q3kS1blVrDh-115" value="External&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Factors&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1145" y="-50" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-12" value="The Enterprise Continuum provides structure and classification for assets in Enterprise Repositories" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-13" value="The Enterprise Repositories provide resources to be classified within the Enterprise Continuum" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="632" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-77" target="3epK9YjHFosVBtGLGVWW-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="490" as="sourcePoint" />
+            <mxPoint x="840" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.836;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3epK9YjHFosVBtGLGVWW-13" target="AtZHnfBM-q3kS1blVrDh-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.353;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="AtZHnfBM-q3kS1blVrDh-76" target="AtZHnfBM-q3kS1blVrDh-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="60" />
+              <mxPoint x="42" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3epK9YjHFosVBtGLGVWW-18" value="Reference&amp;nbsp;&lt;div&gt;models&amp;nbsp;&lt;div&gt;adopted by&amp;nbsp;&lt;/div&gt;&lt;div&gt;the Enterprise&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="402" y="520" as="geometry">
+            <mxPoint x="-4" y="-209" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
