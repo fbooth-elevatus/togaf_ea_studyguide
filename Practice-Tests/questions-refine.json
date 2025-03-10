@@ -1,0 +1,156 @@
+[
+    {
+        "question": "What is the primary output of Phase E?",
+        "options": [
+            "Architecture Definition Document",
+            "Implementation and Migration Strategy (outline)",
+            "Architecture Contract",
+            "Detailed Migration Plan"
+        ],
+        "answer": 1,
+        "explanation": "Phase E (Opportunities and Solutions) outlines the Implementation and Migration Strategy, identifying delivery vehicles and solutions based on gap analysis, while detailed plans are developed in Phase F."
+    },
+    {
+        "question": "In which phase are Architecture Contracts developed to oversee implementation?",
+        "options": [
+            "Phase E",
+            "Phase F",
+            "Phase G",
+            "Phase H"
+        ],
+        "answer": 2,
+        "explanation": "Phase G (Implementation Governance) focuses on overseeing implementation, where Architecture Contracts are developed to ensure compliance and manage deployment."
+    },
+    {
+        "question": "Where are Business Scenarios most used to define requirements?",
+        "options": [
+            "Preliminary Phase",
+            "Phase A",
+            "Phase F",
+            "Phase H"
+        ],
+        "answer": 1,
+        "explanation": "Phase A (Architecture Vision) uses Business Scenarios to define business needs and requirements, shaping the high-level vision for the architecture."
+    },
+    {
+        "question": "What is the primary goal of the Architecture Capability Framework?",
+        "options": [
+            "To describe existing assets consistently",
+            "To ensure effective architecture function operation",
+            "To procure IT tools",
+            "To list stakeholders"
+        ],
+        "answer": 1,
+        "explanation": "The Architecture Capability Framework ensures the architecture function operates effectively and aligns with business needs, supporting a sustainable EA practice."
+    },
+    {
+        "question": "Which is a key component of the Architecture Capability Framework?",
+        "options": [
+            "Architecture Repository",
+            "Architecture Governance",
+            "ADM",
+            "Software Tools"
+        ],
+        "answer": 1,
+        "explanation": "Architecture Governance is a key component of the Architecture Capability Framework, providing structure for managing and controlling architecture activities."
+    },
+    {
+        "question": "Which does the Solutions Continuum NOT contain?",
+        "options": [
+            "Re-usable SBBs",
+            "Organization-specific solutions",
+            "Re-usable ABBs",
+            "Common systems solutions"
+        ],
+        "answer": 2,
+        "explanation": "The Solutions Continuum contains Solution Building Blocks (SBBs), not Architecture Building Blocks (ABBs), which are part of the Architecture Continuum."
+    },
+    {
+        "question": "What is populated during ADM execution?",
+        "options": [
+            "Architecture Capability Framework",
+            "Architecture Repository",
+            "Both A and B",
+            "Neither"
+        ],
+        "answer": 1,
+        "explanation": "During ADM execution, the Architecture Repository is populated with artifacts, while the Architecture Capability Framework provides guidelines, not a storage container."
+    },
+    {
+        "question": "Which is NOT a key Architecture Governance process?",
+        "options": [
+            "Compliance",
+            "Budgetary control",
+            "Monitoring",
+            "Dispensation"
+        ],
+        "answer": 1,
+        "explanation": "Budgetary control is a financial process, not a core Architecture Governance process, which includes compliance, monitoring, and dispensation."
+    },
+    {
+        "question": "What is NOT part of Architecture Governance content?",
+        "options": [
+            "SLAs",
+            "Compliance",
+            "Architectures",
+            "Standards"
+        ],
+        "answer": 1,
+        "explanation": "Compliance is a governance process, not content stored in the repository, unlike SLAs, architectures, and standards."
+    },
+    {
+        "question": "How do foundational building blocks differ from common ones?",
+        "options": [
+            "Foundational are specific; common are generic",
+            "Foundational are generic; common are specific",
+            "Both are organization-specific",
+            "Both are industry-standard"
+        ],
+        "answer": 1,
+        "explanation": "Foundational building blocks are generic and industry-standard, while common building blocks are specific and tailored to an organization."
+    },
+    {
+        "question": "Which component offers templates for new architectures?",
+        "options": [
+            "Architecture Metamodel",
+            "Reference Library",
+            "Architecture Landscape",
+            "Governance Log"
+        ],
+        "answer": 1,
+        "explanation": "The Reference Library within the Architecture Repository provides guidelines, templates, and patterns for creating new architectures."
+    },
+    {
+        "question": "What part of a principle shows business benefits?",
+        "options": [
+            "Statement",
+            "Implications",
+            "Rationale",
+            "Name"
+        ],
+        "answer": 2,
+        "explanation": "The Rationale in an Architecture Principle highlights the business benefits of adhering to it, justifying its importance."
+    },
+    {
+        "question": "What is the role of architecture deliverables?",
+        "options": [
+            "Prevent tailoring",
+            "Starting point for tailoring",
+            "Measure progress only",
+            "Stakeholder reports only"
+        ],
+        "answer": 1,
+        "explanation": "Architecture deliverables are defined as a starting point for tailoring the TOGAF framework to specific organizational needs."
+    },
+    {
+        "question": "In which phase are Transition Architectures confirmed with stakeholders?",
+        "options": [
+            "Phase E",
+            "Phase F",
+            "Phase G",
+            "Phase H"
+        ],
+        "answer": 1,
+        "explanation": "Phase F (Migration Planning) confirms Transition Architectures with stakeholders, refining the implementation plans from Phase E."
+    }
+]

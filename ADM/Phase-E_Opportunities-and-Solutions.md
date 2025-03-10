@@ -4,6 +4,10 @@
 
 The **Opportunities and Solutions** phase focuses on identifying, evaluating, and planning the implementation of the Target Architecture. This phase **bridges the gap between architecture development and execution**, ensuring that business and IT initiatives are aligned. It helps define **work packages, dependencies, costs, and benefits** to guide project implementation.
 
+---
+![Phase E: Opportunities and Solutions](../images/TOGAF-Phase%20E%20-%20Opportunities%20and%20Solutions.drawio.png)
+---
+
 ## Objectives
 
 - **Identify Implementation Opportunities** – Assess **business drivers, constraints, and technology options** to determine feasible implementation paths.
